@@ -1,0 +1,312 @@
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_001-001
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 323, 5260
+# phonetic_text = # eetö -nno -mma w- ekamma -a # iyö wa'to Ø- ei -'jüdü =jo -nno
+# text = # eetönnomma wekamma, # iyö wa'to ei'jüdüjonno
+# text_en =  voy a contar desde la busqueda del fuego
+1	#		PUNCT	#	_	_	_	_	AlignBegin=323|AlignEnd=1028|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	eetönnomma	eetö	_	DEICT -PP -PTC	_	_	_	_	AlignBegin=1028|AlignEnd=1733|GE=[aquí -desde -EXCL]|Gloss=aquí|MGloss=aquí -desde -EXCL|MSeg=eetö-nno-mma|nWord=2|RX=[DEICT -PP -PTC]
+3	wekamma	ekamma	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=1733|AlignEnd=2438|GE=[1/3- contar -NPST]|Gloss=contar|MGloss=1/3- contar -NPST|MSeg=w-ekamma-a|nWord=3|RX=[PERS- V].[T -SUF].[V]|wordform=wekamma,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	#		PUNCT	#	_	_	_	_	AlignBegin=2438|AlignEnd=3143|GE=[#]|MGloss=#|MSeg=#|nWord=4|RX=[#]
+6	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=3143|AlignEnd=3848|GE=[DEMin]|MGloss=DEMin|MSeg=iyö|nWord=5|RX=[PRO]
+7	wa'to	wa'to	NOUN	N	_	_	_	_	AlignBegin=3848|AlignEnd=4553|GE=leña|Gloss=leña|MGloss=leña|MSeg=wa'to|nWord=6|RX=[N]
+8	ei'jüdüjonno	ei	VERB	PERS- V.I.A -NZR =PP -PP	_	_	_	_	AlignBegin=4553|AlignEnd=5260|GE=[3O- COP -PAS:NZR =en -desde]|MGloss=3O- COP -PAS:NZR =en -desde|MSeg=Ø-ei-'jüdü=jo-nno|nWord=7|RX=[PERS- V].[I].[A -NZR =PP -PP]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_002-002
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 6737, 10284
+# phonetic_text = # mödöje t- tö(mö) -e kün- a'ja -aakö =to # esenümü -e
+# text = # mödöje, tüttö küna'ja'to # esenün'e
+# text_en =  así iban de cacería
+1	#		PUNCT	#	_	_	_	_	AlignBegin=6737|AlignEnd=7328|GE=[#]|Gloss=#|MSeg=#|nWord=1|RX=[#]
+2	mödöje	mödöje	_	AD	_	_	_	_	AlignBegin=7328|AlignEnd=7919|GE=así|Gloss=así|MGloss=así|MSeg=mödöje|nWord=2|RX=[AD]|wordform=mödöje,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	tüttö	tö(mö)	VERB	AZR- V.I.A -SUF.V	_	_	_	_	AlignBegin=7919|AlignEnd=8510|GE=[AZR- ir -PTCPe]|Gloss=AZR- ir -PTCPe|MGloss=ir|MSeg=t-tö(mö)-e|nWord=3|RX=[AZR- V].[I].[A -SUF].[V]
+5	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=8510|AlignEnd=9101|GE=[3S:DIS- COP -PDI =COLL]|Gloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=4|RX=[PERS- V].[I].[A -TAM =PTC]
+6	#		PUNCT	#	_	_	_	_	AlignBegin=9101|AlignEnd=9692|GE=[#]|Gloss=#|MSeg=#|nWord=5|RX=[#]
+7	esenün'e	esenümü	VERB	V.I.O -AZR	_	_	_	_	AlignBegin=9692|AlignEnd=10284|GE=[cazar -SUP]|Gloss=cazar -SUP|MGloss=cazar|MSeg=esenümü-e|nWord=6|RX=[V].[I].[O -AZR]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_003-003
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 11404, 18460
+# phonetic_text = # i- tamu -Ø -tomo =komo # n- uttu -dü kün- a'ja -aakö ane'köömü # Ø- enku'tö -tojo =komo adamajana tün- uttu -e kün- a'ja -aakö
+# text = # chaamutonkomo # nuttudu küna'jaakö... ane'köömü... # enku'tötojokomo adamajana tunu'we küna'jaakö
+# text_en =  Su abuelo les daba, ¿qué era?, uña de gato para engañarlos les daba
+1	#		PUNCT	#	_	_	_	_	AlignBegin=11404|AlignEnd=12045|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	chaamutonkomo	tamu	_	PERS- N -SUF.N -SUF.N PTC	_	_	_	_	AlignBegin=12045|AlignEnd=12686|GE=[3- abuelo -POSS3 -PL:ANIM =PL]|Gloss=abuelo|MGloss=3- abuelo -POSS3 -PL:ANIM =PL|MSeg=i-tamu-Ø-tomo=komo|nWord=2|RX=[PERS- N -SUF].[N -SUF].[N PTC]
+3	#		PUNCT	#	_	_	_	_	AlignBegin=12686|AlignEnd=13327|GE=[#]|MGloss=#|MSeg=#|nWord=3|RX=[#]
+4	nuttudu	uttu	VERB	NZR- V.T -SUF.V	_	_	_	_	AlignBegin=13327|AlignEnd=13968|GE=[SHR- dar -NZR1]|Gloss=dar|MGloss=SHR- dar -NZR1|MSeg=n-uttu-dü|nWord=4|RX=[NZR- V].[T -SUF].[V]
+5	küna'jaakö…	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=13968|AlignEnd=14609|GE=[3S:DIS- COP -PDI]|MGloss=3S:DIS- COP -PDI|MSeg=kün-a'ja-aakö|nWord=5|RX=[PERS- V].[I].[A -TAM]|wordform=küna'jaakö...
+6	ane'köömü…	ane'köömü	PRON	PRO	_	_	_	_	AlignBegin=14609|AlignEnd=15250|GE=[INTER:INAN]|MGloss=INTER:INAN|MSeg=ane'köömü|nWord=6|RX=[PRO]|wordform=ane'köömü...
+7	#		PUNCT	#	_	_	_	_	AlignBegin=15250|AlignEnd=15891|GE=[#]|MGloss=#|MSeg=#|nWord=7|RX=[#]
+8	enku'tötojokomo	enku'tö	VERB	PERS- V.T -NZR =PTC	_	_	_	_	AlignBegin=15891|AlignEnd=16532|GE=[3O- mentir -INSTR =PL]|Gloss=mentir|MGloss=3O- mentir -INSTR =PL|MSeg=Ø-enku'tö-tojo=komo|nWord=8|RX=[PERS- V].[T -NZR =PTC]
+9	adamajana	adamajana	NOUN	N	_	_	_	_	AlignBegin=16532|AlignEnd=17173|GE=uña.de.gato|Gloss=uña.de.gato|MGloss=uña.de.gato|MSeg=adamajana|nWord=9|RX=[N]
+10	tunu'we	uttu	VERB	PREF.V- V.T -SUF.V	_	_	_	_	AlignBegin=17173|AlignEnd=17814|GE=[PTCP:TR- dar -PTCPe]|Gloss=dar|MGloss=PTCP:TR- dar -PTCPe|MSeg=tün-uttu-e|nWord=10|RX=[PREF].[V- V].[T -SUF].[V]
+11	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=17814|AlignEnd=18460|GE=[3S:DIS- COP -PDI]|MGloss=3S:DIS- COP -PDI|MSeg=kün-a'ja-aakö|nWord=11|RX=[PERS- V].[I].[A -TAM]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_004-004
+# speaker_id = JseDm
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 19676, 20983
+# phonetic_text = # 0- e'tö -kö =to tünwanno Sichömüna
+# text = # E'tököto tünwanno: " Shichöömüna... "
+# text_en =  Nómbralos [a] ellos: "Shichöömüna"
+1	#		PUNCT	#	_	_	_	_	AlignBegin=19676|AlignEnd=20003|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	E'tököto	e'tö	VERB	PERS- V.T -TAM =PTC	_	_	_	_	AlignBegin=20003|AlignEnd=20330|GE=[3O- nombrar -IMP =COLL]|Gloss=nombrar|MGloss=3O- nombrar -IMP =COLL|MSeg=0-e'tö-kö=to|nWord=2|RX=[PERS- V].[T -TAM =PTC]
+3	tünwanno:	tünwanno	PRON	PRO	_	_	_	_	AlignBegin=20330|AlignEnd=20657|GE=[3:PL]|MGloss=3:PL|MSeg=tünwanno|nWord=3|RX=[PRO]
+4	"	"	PROPN	N.P	_	_	_	_	AlignBegin=20657|AlignEnd=20983|GE=[El].[que].[tiene].[niguas]|MGloss=El.que.tiene.niguas|MSeg=Sichömüna|nWord=4|RX=[N].[P]|wordform="Shichöömüna..."
+5	Shichöömüna...	Shichöömüna...	PROPN	N.P	_	_	_	_	AlignBegin=20657|AlignEnd=20983|GE=[El].[que].[tiene].[niguas]|MGloss=El.que.tiene.niguas|MSeg=Sichömüna|nWord=4|RX=[N].[P]|wordform="Shichöömüna..."
+6	"	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_005-005
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 21262, 22111
+# phonetic_text = # tüwü Sichömüna
+# text = # tüwü Sichömüna
+# text_en =  él era Sichömüna
+1	#		PUNCT	#	_	_	_	_	AlignBegin=21262|AlignEnd=21545|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=21545|AlignEnd=21828|GE=[3:SG]|MGloss=3:SG|MSeg=tüwü|nWord=2|RX=[PRO]
+3	Sichömüna	Sichömüna	PROPN	N.P	_	_	_	_	AlignBegin=21828|AlignEnd=22111|GE=[El].[que].[tiene].[niguas]|MGloss=El.que.tiene.niguas|MSeg=Sichömüna|nWord=3|RX=[N].[P]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_006-006
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 23712, 25493
+# phonetic_text = # i- dui -Ø kün- a'ja -aakö yaawö Yudeke
+# text = # yui küna'jaakö yaawö Yudeke
+# text_en =  Su hermano mayor se llamaba Yudeke
+1	#		PUNCT	#	_	_	_	_	AlignBegin=23712|AlignEnd=24068|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yui	dui	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=24068|AlignEnd=24424|GE=[3- herm].[mayor -POSS3]|Gloss=herm.mayor|MGloss=3- herm.mayor -POSS3|MSeg=i-dui-Ø|nWord=2|RX=[PERS- N -SUF].[N]
+3	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=24424|AlignEnd=24780|GE=[3S:DIS- COP -PDI]|MGloss=3S:DIS- COP -PDI|MSeg=kün-a'ja-aakö|nWord=3|RX=[PERS- V].[I].[A -TAM]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=24780|AlignEnd=25136|GE=entonces|Gloss=entonces|MGloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]
+5	Yudeke	Yudeke	PROPN	N.P	_	_	_	_	AlignBegin=25136|AlignEnd=25493|GE=[Yudeke]|MGloss=Yudeke|MSeg=Yudeke|nWord=5|RX=[N].[P]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_007-007
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 26919, 28418
+# phonetic_text = # ñöödö aakö kün- a'ja -aakö =to aakö
+# text = # ñöödö aakö küna'ja'to, aakö
+# text_en =  ellos eran dos
+1	#		PUNCT	#	_	_	_	_	AlignBegin=26919|AlignEnd=27219|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	ñöödö	ñöödö	PRON	PRO	_	_	_	_	AlignBegin=27219|AlignEnd=27519|GE=[DEMan]|MGloss=DEMan|MSeg=ñöödö|nWord=2|RX=[PRO]
+3	aakö	aakö	_	NUM	_	_	_	_	AlignBegin=27519|AlignEnd=27819|GE=dos|Gloss=dos|MGloss=dos|MSeg=aakö|nWord=3|RX=[NUM]
+4	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=27819|AlignEnd=28119|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=4|RX=[PERS- V].[I].[A -TAM =PTC]|wordform=küna'ja'to,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aakö	aakö	_	NUM	_	_	_	_	AlignBegin=28119|AlignEnd=28418|GE=dos|Gloss=dos|MGloss=dos|MSeg=aakö|nWord=5|RX=[NUM]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_008-008
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 29636, 31018
+# phonetic_text = # yööje esenümü -e t- tö(mö) -e kün- a'ja -aakö =to
+# text = # yööje esenün'e tüttö küna'ja'to
+# text_en =  ellos iban de cacería
+1	#		PUNCT	#	_	_	_	_	AlignBegin=29636|AlignEnd=29912|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=29912|AlignEnd=30188|GE=así|Gloss=así|MGloss=así|MSeg=yööje|nWord=2|RX=[AD]
+3	esenün'e	esenümü	VERB	V.I.O -AZR	_	_	_	_	AlignBegin=30188|AlignEnd=30464|GE=[cazar -SUP]|Gloss=cazar|MGloss=cazar -SUP|MSeg=esenümü-e|nWord=3|RX=[V].[I].[O -AZR]
+4	tüttö	tö(mö)	VERB	AZR- V.I.A -SUF.V	_	_	_	_	AlignBegin=30464|AlignEnd=30740|GE=[ADV- ir -PTCPe]|Gloss=ir|MGloss=ADV- ir -PTCPe|MSeg=t-tö(mö)-e|nWord=4|RX=[AZR- V].[I].[A -SUF].[V]
+5	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=30740|AlignEnd=31018|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=5|RX=[PERS- V].[I].[A -TAM =PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_009-009
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 32161, 37181
+# phonetic_text = # # an- o'tö -'da t- tö(mö) -e kün- a'ja -aakö =to adamajana -ke # a'ke an- o'tö -'da
+# text = # # ono'tö'da, tüttö küna'ja'to adamajamake, # a'ke, ono'tö'da
+# text_en =  no pescaban, cuando iban con adamajana, nada, no pescaban
+1	#		PUNCT	#	_	_	_	_	AlignBegin=32161|AlignEnd=32719|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	#		PUNCT	#	_	_	_	_	AlignBegin=32719|AlignEnd=33277|GE=[#]|MGloss=#|MSeg=#|nWord=2|RX=[#]
+3	ono'tö'da	o'tö	VERB	PREF.V- V.T -PTC	_	_	_	_	AlignBegin=33277|AlignEnd=33835|GE=[NEG- pescar -NEG]|Gloss=pescar|MGloss=NEG- pescar -NEG|MSeg=an-o'tö-'da|nWord=3|RX=[PREF].[V- V].[T -PTC]|wordform=ono'tö'da,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	tüttö	tö(mö)	VERB	AZR- V.I.A -SUF.V	_	_	_	_	AlignBegin=33835|AlignEnd=34393|GE=[ADV- ir -PTCPe]|Gloss=ir|MGloss=ADV- ir -PTCPe|MSeg=t-tö(mö)-e|nWord=4|RX=[AZR- V].[I].[A -SUF].[V]
+6	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=34393|AlignEnd=34951|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=5|RX=[PERS- V].[I].[A -TAM =PTC]
+7	adamajamake	adamajana	_	N -ADVR	_	_	_	_	AlignBegin=34951|AlignEnd=35509|GE=[uña].[de].[gato -INSTR]|Gloss=uña.de.gato|MGloss=uña.de.gato -INSTR|MSeg=adamajana-ke|nWord=6|RX=[N -ADVR]|wordform=adamajamake,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	#		PUNCT	#	_	_	_	_	AlignBegin=35509|AlignEnd=36067|GE=[#]|MGloss=#|MSeg=#|nWord=7|RX=[#]
+10	a'ke	a'ke	NOUN	N	_	_	_	_	AlignBegin=36067|AlignEnd=36625|GE=nada|Gloss=nada|MGloss=nada|MSeg=a'ke|nWord=8|RX=[N]|wordform=a'ke,
+11	,	_	PUNCT	_	_	_	_	_	_
+12	ono'tö'da	o'tö	VERB	PREF.V- V.T -PTC	_	_	_	_	AlignBegin=36625|AlignEnd=37181|GE=[NEG- pescar -NEG]|Gloss=pescar|MGloss=NEG- pescar -NEG|MSeg=an-o'tö-'da|nWord=9|RX=[PREF].[V- V].[T -PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_010-010
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 38313, 39797
+# phonetic_text = # yööje de'a kün- tü'tammekü -i =to yaawö
+# text = # yööje denña küntü'tameküicho yaawö
+# text_en =  en ese momento se pusieron a pensar
+1	#		PUNCT	#	_	_	_	_	AlignBegin=38313|AlignEnd=38610|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=38610|AlignEnd=38907|GE=así|Gloss=así|MGloss=así|MSeg=yööje|nWord=2|RX=[AD]
+3	denña	de'a	_	PTC	_	_	_	_	AlignBegin=38907|AlignEnd=39204|GE=[REIT]|MGloss=REIT|MSeg=de'a|nWord=3|RX=[PTC]
+4	küntü'tameküicho	tü'tammekü	VERB	PERS- V.T -TAM =PTC	_	_	_	_	AlignBegin=39204|AlignEnd=39501|GE=[3/3:DIS- planear -PRP =COLL]|Gloss=planear|MGloss=3/3:DIS- planear -PRP =COLL|MSeg=kün-tü'tammekü-i=to|nWord=4|RX=[PERS- V].[T -TAM =PTC]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=39501|AlignEnd=39797|GE=entonces|Gloss=entonces|MGloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_011-011
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 41323, 42979
+# phonetic_text = # t- tamu -Ø -tomo =komo Ø- ememmekü -dü jökkö
+# text = # tütamutonkomo ememmeküdü jökkö
+# text_en =  en robar a su abuelo
+1	#		PUNCT	#	_	_	_	_	AlignBegin=41323|AlignEnd=41737|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	tütamutonkomo	tamu	_	PERS- N -SUF.N -SUF.N PTC	_	_	_	_	AlignBegin=41737|AlignEnd=42151|GE=[3:REFL- abuelo -POSS3 -PL:ANIM =PL]|Gloss=abuelo|MGloss=3:REFL- abuelo -POSS3 -PL:ANIM =PL|MSeg=t-tamu-Ø-tomo=komo|nWord=2|RX=[PERS- N -SUF].[N -SUF].[N PTC]
+3	ememmeküdü	ememmekü	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=42151|AlignEnd=42565|GE=[3O- robar -NZR1]|Gloss=robar|MGloss=3O- robar -NZR1|MSeg=Ø-ememmekü-dü|nWord=3|RX=[PERS- V].[T -SUF].[V]
+4	jökkö	jökkö	ADP	PP	_	_	_	_	AlignBegin=42565|AlignEnd=42979|GE=en|Gloss=en|MGloss=en|MSeg=jökkö|nWord=4|RX=[PP]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_012-012
+# speaker_id = JseDm
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 44270, 45343
+# phonetic_text = # önökü ñöödö i- tamu -0 -tomo =komo
+# text = # ¿önökü ñöödö chaamutonkomo?
+# text_en =  quien era el abuelo de ellos
+1	#		PUNCT	#	_	_	_	_	AlignBegin=44270|AlignEnd=44538|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	¿	_	PUNCT	_	_	_	_	_	_
+3	önökü	önökü	PRON	PRO	_	_	_	_	AlignBegin=44538|AlignEnd=44806|GE=quién|Gloss=quién|MGloss=quién|MSeg=önökü|nWord=2|RX=[PRO]|wordform=¿önökü
+4	ñöödö	ñöödö	PRON	PRO	_	_	_	_	AlignBegin=44806|AlignEnd=45074|GE=[DEMan]|MGloss=DEMan|MSeg=ñöödö|nWord=3|RX=[PRO]
+5	chaamutonkomo	tamu	_	PERS- N -SUF.N -SUF.N =PTC	_	_	_	_	AlignBegin=45074|AlignEnd=45343|GE=[3- abuelo -POSS3 -PL:ANIM =PL]|Gloss=abuelo|MGloss=3- abuelo -POSS3 -PL:ANIM =PL|MSeg=i-tamu-0-tomo=komo|nWord=4|RX=[PERS- N -SUF].[N -SUF].[N =PTC]|wordform=chaamutonkomo?
+6	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_013-013
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 45696, 46787
+# phonetic_text = # mö'dö Majanuma de'a
+# text = # mö'dö, Majanuma denña
+# text_en =  El era el propio Majanuma
+1	#		PUNCT	#	_	_	_	_	AlignBegin=45696|AlignEnd=45969|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	mö'dö	mö'dö	PRON	PRO	_	_	_	_	AlignBegin=45969|AlignEnd=46242|GE=[DEM1an]|MGloss=DEM1an|MSeg=mö'dö|nWord=2|RX=[PRO]|wordform=mö'dö,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	Majanuma	Majanuma	PROPN	N.P	_	_	_	_	AlignBegin=46242|AlignEnd=46515|GE=[Majanuma]|MGloss=Majanuma|MSeg=Majanuma|nWord=3|RX=[N].[P]
+5	denña	de'a	_	PTC	_	_	_	_	AlignBegin=46515|AlignEnd=46787|GE=[REIT]|MGloss=REIT|MSeg=de'a|nWord=4|RX=[PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_014-014
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 49393, 51848
+# phonetic_text = # yöötö kün- tö(mö) -i =to ka'sai =je
+# text = # yöötö, küntonto ka'saije
+# text_en =  ellos se fueron convertidos en caribes
+1	#		PUNCT	#	_	_	_	_	AlignBegin=49393|AlignEnd=50007|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yöötö	yöötö	_	DEICT	_	_	_	_	AlignBegin=50007|AlignEnd=50621|GE=allá3|Gloss=allá3|MGloss=allá3|MSeg=yöötö|nWord=2|RX=[DEICT]|wordform=yöötö,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	küntonto	tö(mö)	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=50621|AlignEnd=51235|GE=[3S:DIS- ir -PRP =COLL]|Gloss=ir|MGloss=3S:DIS- ir -PRP =COLL|MSeg=kün-tö(mö)-i=to|nWord=3|RX=[PERS- V].[I].[A -TAM =PTC]
+5	ka'saije	ka'sai	_	N =ADVR	_	_	_	_	AlignBegin=51235|AlignEnd=51848|GE=[caribe =ATRB]|Gloss=caribe|MGloss=caribe =ATRB|MSeg=ka'sai=je|nWord=4|RX=[N =ADVR]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_015-015
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 53707, 56828
+# phonetic_text = # iyö anoto jökkö Ø- ememmekü -'se i- w- ei -dü =komo # ka'sai n- akötö -a =:düje
+# text = # iyö anoto jökkö, ememmekü'se yeichükomo, # ka'sai nakö'aadüje
+# text_en =  desde ese día que quisieron robar, los caribes cortan los anzuelos
+1	#		PUNCT	#	_	_	_	_	AlignBegin=53707|AlignEnd=54054|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=54054|AlignEnd=54401|GE=[DEMin]|MGloss=DEMin|MSeg=iyö|nWord=2|RX=[PRO]
+3	anoto	anoto	NOUN	N	_	_	_	_	AlignBegin=54401|AlignEnd=54748|GE=día|Gloss=día|MGloss=día|MSeg=anoto|nWord=3|RX=[N]
+4	jökkö	jökkö	ADP	PP	_	_	_	_	AlignBegin=54748|AlignEnd=55095|GE=cuando|Gloss=cuando|MGloss=cuando|MSeg=jökkö|nWord=4|RX=[PP]|wordform=jökkö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ememmekü'se	ememmekü	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=55095|AlignEnd=55442|GE=[3O- robar -DES]|Gloss=robar|MGloss=3O- robar -DES|MSeg=Ø-ememmekü-'se|nWord=5|RX=[PERS- V].[T -SUF].[V]
+7	yeichükomo	ei	VERB	PERS- PREF.V- V.I.A -SUF.V =PTC	_	_	_	_	AlignBegin=55442|AlignEnd=55789|GE=[3S- INTR- COP -NZR1 =PL]|MGloss=3S- INTR- COP -NZR1 =PL|MSeg=i-w-ei-dü=komo|nWord=6|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V =PTC]|wordform=yeichükomo,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	#		PUNCT	#	_	_	_	_	AlignBegin=55789|AlignEnd=56136|GE=[#]|MGloss=#|MSeg=#|nWord=7|RX=[#]
+10	ka'sai	ka'sai	NOUN	N	_	_	_	_	AlignBegin=56136|AlignEnd=56483|GE=caribe|Gloss=caribe|MGloss=caribe|MSeg=ka'sai|nWord=8|RX=[N]
+11	nakö'aadüje	akötö	VERB	PERS- V.T -TAM =PTC	_	_	_	_	AlignBegin=56483|AlignEnd=56828|GE=[3/3- cortar -NPST =COMPAR]|Gloss=cortar|MGloss=3/3- cortar -NPST =COMPAR|MSeg=n-akötö-a=:düje|nWord=9|RX=[PERS- V].[T -TAM =PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_016-016
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 58999, 60710
+# phonetic_text = # yööje tün- ememmekü -e kün- a'ja -aakö =to yaawö
+# text = # yööje tünememme'ke küna'ja'to yaawö
+# text_en =  así era que ellos robaban
+1	#		PUNCT	#	_	_	_	_	AlignBegin=58999|AlignEnd=59341|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=59341|AlignEnd=59683|GE=así|Gloss=así|MGloss=así|MSeg=yööje|nWord=2|RX=[AD]
+3	tünememme'ke	ememmekü	VERB	PREF.V- V.T -SUF.V	_	_	_	_	AlignBegin=59683|AlignEnd=60025|GE=[PTCP:TR- robar -PTCPe]|Gloss=robar|MGloss=PTCP:TR- robar -PTCPe|MSeg=tün-ememmekü-e|nWord=3|RX=[PREF].[V- V].[T -SUF].[V]
+4	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=60025|AlignEnd=60367|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=4|RX=[PERS- V].[I].[A -TAM =PTC]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=60367|AlignEnd=60710|GE=entonces|Gloss=entonces|MGloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_017-017
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 61500, 64662
+# phonetic_text = # i- uwö takaade -'da # a'ke # esenümü -e t- tö(mö) -e kün- a'ja -aakö =to
+# text = # chöuwö takade'da, # a'ke # esenün'e tüttö küna'ja'to
+# text_en =  ellos iban de cacería, pero él no sabía nada
+1	#		PUNCT	#	_	_	_	_	AlignBegin=61500|AlignEnd=61851|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	chöuwö	uwö	_	PERS- CASE	_	_	_	_	AlignBegin=61851|AlignEnd=62202|GE=[3- DAT]|MGloss=3- DAT|MSeg=i-uwö|nWord=2|RX=[PERS- CASE]
+3	takade'da	takaade	_	AD -PTC	_	_	_	_	AlignBegin=62202|AlignEnd=62553|GE=[sabido -NEG]|Gloss=sabido|MGloss=sabido -NEG|MSeg=takaade-'da|nWord=3|RX=[AD -PTC]|wordform=takade'da,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	#		PUNCT	#	_	_	_	_	AlignBegin=62553|AlignEnd=62904|GE=[#]|MGloss=#|MSeg=#|nWord=4|RX=[#]
+6	a'ke	a'ke	_	AD	_	_	_	_	AlignBegin=62904|AlignEnd=63255|GE=nada|Gloss=nada|MGloss=nada|MSeg=a'ke|nWord=5|RX=[AD]
+7	#		PUNCT	#	_	_	_	_	AlignBegin=63255|AlignEnd=63606|GE=[#]|MGloss=#|MSeg=#|nWord=6|RX=[#]
+8	esenün'e	esenümü	VERB	V.I.O -AZR	_	_	_	_	AlignBegin=63606|AlignEnd=63957|GE=[cazar -SUP]|Gloss=cazar|MGloss=cazar -SUP|MSeg=esenümü-e|nWord=7|RX=[V].[I].[O -AZR]
+9	tüttö	tö(mö)	VERB	AZR- V.I.A -SUF.V	_	_	_	_	AlignBegin=63957|AlignEnd=64308|GE=[AZR- ir -PTCPe]|Gloss=ir|MGloss=AZR- ir -PTCPe|MSeg=t-tö(mö)-e|nWord=8|RX=[AZR- V].[I].[A -SUF].[V]
+10	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=64308|AlignEnd=64662|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=9|RX=[PERS- V].[I].[A -TAM =PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_018-018
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 66202, 68181
+# phonetic_text = # yööje tüw- esenümü -e kün- a'ja -aakö =to yaawö
+# text = # yööje, tüwesenün'e küna'ja'to yaawö
+# text_en =  así cazaban ellos
+1	#		PUNCT	#	_	_	_	_	AlignBegin=66202|AlignEnd=66598|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=66598|AlignEnd=66994|GE=así|Gloss=así|MGloss=así|MSeg=yööje|nWord=2|RX=[AD]|wordform=yööje,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	tüwesenün'e	esenümü	VERB	PREF.V- V.I.O -SUF.V	_	_	_	_	AlignBegin=66994|AlignEnd=67390|GE=[PTCP:INTR- cazar -PTCPe]|Gloss=cazar|MGloss=PTCP:INTR- cazar -PTCPe|MSeg=tüw-esenümü-e|nWord=3|RX=[PREF].[V- V].[I].[O -SUF].[V]
+5	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=67390|AlignEnd=67786|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=4|RX=[PERS- V].[I].[A -TAM =PTC]
+6	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=67786|AlignEnd=68181|GE=entonces|Gloss=entonces|MGloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_019-019
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 69288, 71851
+# phonetic_text = # iyö t- ömenü -Ø =komo -ke tün- o'tö -e kün- a'ja -aakö =to yaawö
+# text = # iyö, tömenükomoke, tüno'tö küna'ja'to yaawö
+# text_en =  ellos iban y pescaban con lo que habían robado
+1	#		PUNCT	#	_	_	_	_	AlignBegin=69288|AlignEnd=69715|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=69715|AlignEnd=70142|GE=[DEMin]|MGloss=DEMin|MSeg=iyö|nWord=2|RX=[PRO]|wordform=iyö,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	tömenükomoke	ömenü	_	PERS- N -SUF.N =PTC -ADVR	_	_	_	_	AlignBegin=70142|AlignEnd=70569|GE=[3:REFL- cosa].[robada -POSS3 =PL -INSTR]|Gloss=cosa.robada|MGloss=3:REFL- cosa.robada -POSS3 =PL -INSTR|MSeg=t-ömenü-Ø=komo-ke|nWord=3|RX=[PERS- N -SUF].[N =PTC -ADVR]|wordform=tömenükomoke,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	tüno'tö	o'tö	VERB	PREF.V- V.T -SUF.V	_	_	_	_	AlignBegin=70569|AlignEnd=70996|GE=[PTCP:TR- pescar -PTCPe]|Gloss=pescar|MGloss=PTCP:TR- pescar -PTCPe|MSeg=tün-o'tö-e|nWord=4|RX=[PREF].[V- V].[T -SUF].[V]
+7	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=70996|AlignEnd=71423|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=5|RX=[PERS- V].[I].[A -TAM =PTC]
+8	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=71423|AlignEnd=71851|GE=entonces|Gloss=entonces|MGloss=entonces|MSeg=yaawö|nWord=6|RX=[PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_020-020
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 73844, 78466
+# phonetic_text = # yööje tün- ememmekü -e kün- a'ja -aakö =to t- tamu -Ø -tomo =komo iyö # ka'sai =je t- tö(mö) -e kün- a'ja -aakö =to
+# text = # yööje tünememme'ke küna'ja'to tütamutonkomo, iyö, # ka'saije tüttö küna'ja'to
+# text_en =  ellos robaban al abuelo y se iban convertidos en caribes
+1	#		PUNCT	#	_	_	_	_	AlignBegin=73844|AlignEnd=74306|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=74306|AlignEnd=74768|GE=así|Gloss=así|MGloss=así|MSeg=yööje|nWord=2|RX=[AD]
+3	tünememme'ke	ememmekü	VERB	PREF.V- V.T -SUF.V	_	_	_	_	AlignBegin=74768|AlignEnd=75230|GE=[PTCP:TR- robar -PTCPe]|Gloss=robar|MGloss=PTCP:TR- robar -PTCPe|MSeg=tün-ememmekü-e|nWord=3|RX=[PREF].[V- V].[T -SUF].[V]
+4	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=75230|AlignEnd=75692|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=4|RX=[PERS- V].[I].[A -TAM =PTC]
+5	tütamutonkomo	tamu	_	PERS- N -SUF.N -SUF.N =PTC	_	_	_	_	AlignBegin=75692|AlignEnd=76154|GE=[3:REFL- abuelo -POSS3 -PL:ANIM =PL]|Gloss=abuelo|MGloss=3:REFL- abuelo -POSS3 -PL:ANIM =PL|MSeg=t-tamu-Ø-tomo=komo|nWord=5|RX=[PERS- N -SUF].[N -SUF].[N =PTC]|wordform=tütamutonkomo,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=76154|AlignEnd=76616|GE=[DEMin]|MGloss=DEMin|MSeg=iyö|nWord=6|RX=[PRO]|wordform=iyö,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	#		PUNCT	#	_	_	_	_	AlignBegin=76616|AlignEnd=77078|GE=[#]|MGloss=#|MSeg=#|nWord=7|RX=[#]
+10	ka'saije	ka'sai	_	N =ADVR	_	_	_	_	AlignBegin=77078|AlignEnd=77540|GE=[caribe =ATRB]|Gloss=caribe|MGloss=caribe =ATRB|MSeg=ka'sai=je|nWord=8|RX=[N =ADVR]
+11	tüttö	tö(mö)	VERB	AZR- V.I.A -SUF.V	_	_	_	_	AlignBegin=77540|AlignEnd=78002|GE=[AZR- ir -PTCPe]|Gloss=ir|MGloss=AZR- ir -PTCPe|MSeg=t-tö(mö)-e|nWord=9|RX=[AZR- V].[I].[A -SUF].[V]
+12	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=78002|AlignEnd=78466|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=10|RX=[PERS- V].[I].[A -TAM =PTC]
+
+# sent_id = Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N_021-021
+# speaker_id = Mnl
+# sound_url = https://corporan.huma-num.fr/Archives/media/Yek08/WAV/Yek08_CtoYudSich_Mnl_NEWGL_AgV2_N.WAV
+# sent_timecode = 79411, 80577
+# phonetic_text = # yööje tün- ememmekü -e kün- a'ja -aakö =to
+# text = # yööje tünememme'ke küna'ja'to
+# text_en =  así robaban
+1	#		PUNCT	#	_	_	_	_	AlignBegin=79411|AlignEnd=79703|GE=[#]|MGloss=#|MSeg=#|nWord=1|RX=[#]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=79703|AlignEnd=79995|GE=así|Gloss=así|MGloss=así|MSeg=yööje|nWord=2|RX=[AD]
+3	tünememme'ke	ememmekü	VERB	PREF.V- V.T -SUF.V	_	_	_	_	AlignBegin=79995|AlignEnd=80287|GE=[PTCP:TR- robar -PTCPe]|Gloss=robar|MGloss=PTCP:TR- robar -PTCPe|MSeg=tün-ememmekü-e|nWord=3|RX=[PREF].[V- V].[T -SUF].[V]
+4	küna'ja'to	a'ja	VERB	PERS- V.I.A -TAM =PTC	_	_	_	_	AlignBegin=80287|AlignEnd=80577|GE=[3S:DIS- COP -PDI =COLL]|MGloss=3S:DIS- COP -PDI =COLL|MSeg=kün-a'ja-aakö=to|nWord=4|RX=[PERS- V].[I].[A -TAM =PTC]
+

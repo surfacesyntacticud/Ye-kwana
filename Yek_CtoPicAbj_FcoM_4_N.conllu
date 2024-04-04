@@ -1,0 +1,1882 @@
+# sent_id = CtoAbjPic_001-002
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 7007, 14638
+# morphemic_text = mödöje mödö Ø- ekamma -jötü -dü yaawö akudi akkö wanö i- w- ei -jüdü =komo
+# text = Mödöje, mödö ekammajötüdü yawö, akudi akkö wanö yeijü'komo.
+# text_en =  The story of that is like that then, the past living of Agouti and Bee.
+# text_es =  !La historia de eso es así. lo que fue la abeja y la picure.
+# text_iu =  [Mödöje,] [mödö ekammajötüdü yawö,] [akudi akö wanö yeijü'komo.]
+# text_tg =  ^tp_nominal ^wo_PredSub ^jd_s-V-jüdü_-'jo
+# text_nt =  -jüdü=SUBcompletive
+1	Mödöje	mödöje	_	AD	_	_	_	_	AlignBegin=7007|AlignEnd=7852|GE=así|Gloss=así|MSeg=mödöje|nWord=1|RX=[AD]|wordform=Mödöje,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=7852|AlignEnd=8697|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=2|RX=[PRO]
+4	ekammajötüdü	ekamma	VERB	PERS- V.T -TAM -SUF.V	_	_	_	_	AlignBegin=8697|AlignEnd=9542|GE=[3O- contar -ITER -NZR]|Gloss=3O- contar -ITER -NZR|MSeg=Ø- ekamma -jötü -dü|nWord=3|RX=[PERS- V].[T -TAM -SUF].[V]
+5	yawö	yaawö	_	PTC	_	_	_	_	AlignBegin=9542|AlignEnd=10387|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yawö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=11947|AlignEnd=12620|GE=picure|Gloss=picure|MSeg=akudi|nWord=5|RX=[N]
+8	akkö	akkö	ADP	PP	_	_	_	_	AlignBegin=12620|AlignEnd=13293|GE=con|Gloss=con|MSeg=akkö|nWord=6|RX=[PP]
+9	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=13293|AlignEnd=13966|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=7|RX=[N]
+10	yeijü'komo	ei	VERB	PERS- PREF.V- V.I.A -NZR PTC	_	_	_	_	AlignBegin=13966|AlignEnd=14638|GE=[3S- INTR- COP -PAS].[POS =PL]|Gloss=3S- INTR- COP -PAS.POS =PL|MSeg=i- w- ei -jüdü =komo|nWord=8|RX=[PERS- PREF].[V- V].[I].[A -NZR PTC]|wordform=yeijü'komo.
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_003-003
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 20254, 22919
+# morphemic_text = i- wo'jüdü -Ø =je kün- a'ja -aakö tüwü akudi
+# text = Yo'jüdüje küna'jaakö tüwü, akudi...
+# text_en =  She was her mother-in-law, Agouti.
+# text_es =  La picure era como su suegra.
+# text_iu =  [Yo'jüdüje küna'jaakö tüwü,] [akudi...]
+# text_tg =  ^nvp_NjeCopPro_nvpFUNC_inclusion ^wo_PredCopSub
+1	Yo'jüdüje	wo'jüdü	_	PERS- N -SUF.N AZR	_	_	_	_	AlignBegin=20254|AlignEnd=20920|GE=[3- suegra -POSS =ESS]|Gloss=3- suegra -POSS =ESS|MSeg=i- wo'jüdü -Ø =je|nWord=1|RX=[PERS- N -SUF].[N AZR]
+2	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=20920|AlignEnd=21586|GE=[3S].[PAS- COP -PDI]|Gloss=3S.PAS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=2|RX=[PERS- V].[I].[A -TAM]
+3	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=21586|AlignEnd=22252|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=3|RX=[PRO]|wordform=tüwü,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	akudi…	akudi	NOUN	N	_	_	_	_	AlignBegin=22252|AlignEnd=22919|GE=picure|Gloss=picure|MSeg=akudi|nWord=4|RX=[N]|wordform=akudi...
+
+# sent_id = CtoAbjPic_004-004
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 26494, 27781
+# morphemic_text = wanö i- jadaa -nü =je
+# text = wanö ijadanüje.
+# text_en =  Bee was her daughter in law.
+# text_es =  la abeja como su nuera.
+# text_iu =  [wanö ijadanüje.]
+1	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=26494|AlignEnd=27138|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=1|RX=[N]
+2	ijadanüje	jadaa	_	PERS- N -SUF.N AZR	_	_	_	_	AlignBegin=27138|AlignEnd=27781|GE=[3- nuera -POSS =ESS]|Gloss=3- nuera -POSS =ESS|MSeg=i- jadaa -nü =je|nWord=2|RX=[PERS- N -SUF].[N AZR]|wordform=ijadanüje.
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_005-005
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 29185, 34580
+# morphemic_text = Awadudui =je Awadudui *- Awadudui jadö kün- a'ja -aakö
+# text = Awaduduije, Awadudui j- Awadudui jadö küna'jaakö.
+# text_en =  She was (married) as Awadudui... as... with Awadudui.
+# text_es =  Como Awadudui, estaba casada con Awadudui.
+# text_iu =  [Awaduduije,] [awadudui j-] [awadudui jadö küna'jaakö.]
+# text_tg =  ^wo_PredCop
+1	Awaduduije	Awadudui	PROPN	N.P AZR	_	_	_	_	AlignBegin=29185|AlignEnd=30084|GE=[Awadudui =ESS]|Gloss=Awadudui =ESS|MSeg=Awadudui =je|nWord=1|RX=[N].[P AZR]|wordform=Awaduduije,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Awadudui	Awadudui	PROPN	N.P	_	_	_	_	AlignBegin=30084|AlignEnd=30983|GE=[Awadudui]|Gloss=Awadudui|MSeg=Awadudui|nWord=2|RX=[N].[P]
+4	j-		_	_	_	_	_	_	AlignBegin=30983|AlignEnd=31882|Gloss=-|MSeg=*-|nWord=3
+5	Awadudui	Awadudui	PROPN	N.P	_	_	_	_	AlignBegin=31882|AlignEnd=32781|GE=[Awadudui]|Gloss=Awadudui|MSeg=Awadudui|nWord=4|RX=[N].[P]
+6	jadö	jadö	ADP	PP	_	_	_	_	AlignBegin=32781|AlignEnd=33680|GE=con|Gloss=con|MSeg=jadö|nWord=5|RX=[PP]
+7	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=33680|AlignEnd=34580|GE=[3S].[PAS- COP -PDI]|Gloss=3S.PAS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=6|RX=[PERS- V].[I].[A -TAM]|wordform=küna'jaakö.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_006-006
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 38311, 46241
+# morphemic_text = yaawö öömichö -e kün- tö(mö) -jötü -aakö =to akudi wanö kiyede aka
+# text = Yaawö öömiche küntööjö'a'to, akudi, wanö, kiyedaka.
+# text_en =  At that moment they went to look for manioc, Agouti, Bee, in the garden.
+# text_es =  Ahí fueron a buscar yuca, la picura, la abeja, en el conuco.
+# text_iu =  [Yaawö öömiche küntöjö'a'to,] [akudi,] [wanö,] [kiyedaka.]
+# text_tg =  ^dtrVerb_öömichö ^traj_ütömö_Go:Go_Naka ^wo_XVZ,A
+1	Yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=38311|AlignEnd=39633|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=1|RX=[PTC]
+2	öömiche	öömichö	VERB	V.I.A -AZR	_	_	_	_	AlignBegin=39633|AlignEnd=40955|GE=[buscar].[yuca -SUP]|Gloss=buscar.yuca -SUP|MSeg=öömichö -e|nWord=2|RX=[V].[I].[A -AZR]
+3	küntööjö'a'to	tö(mö)	VERB	PERS- V.I.A -TAM -TAM PTC	_	_	_	_	AlignBegin=40955|AlignEnd=42277|GE=[3S].[PAS- ir -ITER -PDI =COLL]|Gloss=3S.PAS- ir -ITER -PDI =COLL|MSeg=kün- tö(mö) -jötü -aakö =to|nWord=3|RX=[PERS- V].[I].[A -TAM -TAM PTC]|wordform=küntööjö'a'to,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=42277|AlignEnd=43599|GE=picure|Gloss=picure|MSeg=akudi|nWord=4|RX=[N]|wordform=akudi,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=43599|AlignEnd=44921|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=5|RX=[N]|wordform=wanö,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	kiyedaka	kiyede aka	NOUN	N PP	_	_	_	_	AlignBegin=44921|AlignEnd=46241|GE=yuca en|Gloss=yuca en|MSeg=kiyede aka|nWord=6|RX=[N PP]|wordform=kiyedaka.
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_007-007
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 50362, 57616
+# morphemic_text = inña a'ye *** kün- ütö(mö) -i kün- ütö(mö) -jötü -aakö tüwü wanö
+# text = inña, a'ye küney- küntömö, küntööjö'aakö tüwü, wanö.
+# text_en =  There, in a swift, she cam.... went... was going back and forth, Bee.
+# text_es =  Por allá, ella la abeja fue enseguida.
+# text_iu =  [Inñano- inña,] [a'ye küney- küntömö,] [küntöjö'aakö tüwü,] [wanö.]
+# text_tg =  ^traj_ütömö_Go:Go_inña ^wo_VU
+1	inña	inña	_	DEICT	_	_	_	_	AlignBegin=50362|AlignEnd=51398|GE=allá|Gloss=allá|MSeg=inña|nWord=1|RX=[DEICT]|wordform=inña,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	a'ye	a'ye	_	AD	_	_	_	_	AlignBegin=51398|AlignEnd=52434|GE=breve|Gloss=breve|MSeg=a'ye|nWord=2|RX=[AD]
+4	küney-		_	***	_	_	_	_	AlignBegin=52434|AlignEnd=53470|GE=[***]|Gloss=***|MSeg=***|nWord=3|RX=[***]
+5	küntömö	ütö(mö)	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=53470|AlignEnd=54506|GE=[3S].[DIS- ir -PRP]|Gloss=3S.DIS- ir -PRP|MSeg=kün- ütö(mö) -i|nWord=4|RX=[PERS- V].[I].[A -TAM]|wordform=küntömö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	küntööjö'aakö	ütö(mö)	VERB	PERS- V.I.A -TAM -TAM	_	_	_	_	AlignBegin=54506|AlignEnd=55542|GE=[3S].[DIS- ir -PLAC -PDI]|Gloss=3S.DIS- ir -PLAC -PDI|MSeg=kün- ütö(mö) -jötü -aakö|nWord=5|RX=[PERS- V].[I].[A -TAM -TAM]
+8	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=55542|AlignEnd=56578|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=6|RX=[PRO]|wordform=tüwü,
+9	,	_	PUNCT	_	_	_	_	_	_
+10	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=56578|AlignEnd=57616|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=7|RX=[N]|wordform=wanö.
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_008-008
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 61074, 65234
+# morphemic_text = aakö -mma wanö kiyede munu -Ø kün- u'ka -i
+# text = aakömma wanö... kiyede munu kunu'kwai.
+# text_en =  Bee took out only two manioc tubers,
+# text_es =  La abeja sacó dos tuberculos de yuca.
+# text_iu =  [Adu-] [aakömma wanö...] [kiyede munu kunu'kwai.]
+# text_tg =  ^qty_adv_Oarg ^wo_A,OV
+1	aakömma	aakö	_	NUM -PTC	_	_	_	_	AlignBegin=61074|AlignEnd=61906|GE=[dos -EXCL]|Gloss=dos -EXCL|MSeg=aakö -mma|nWord=1|RX=[NUM -PTC]
+2	wanö…	wanö	NOUN	N	_	_	_	_	AlignBegin=61906|AlignEnd=62738|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=2|RX=[N]|wordform=wanö...
+3	kiyede	kiyede	NOUN	N	_	_	_	_	AlignBegin=62738|AlignEnd=63570|GE=yuca|Gloss=yuca|MSeg=kiyede|nWord=3|RX=[N]
+4	munu	munu	NOUN	N -SUF.N	_	_	_	_	AlignBegin=63570|AlignEnd=64402|GE=[tubérculo -POSS]|Gloss=tubérculo -POSS|MSeg=munu -Ø|nWord=4|RX=[N -SUF].[N]
+5	kunu'kwai	u'ka	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=64402|AlignEnd=65234|GE=[3/3].[DIS- sacar -PAS]|Gloss=3/3.DIS- sacar -PAS|MSeg=kün- u'ka -i|nWord=5|RX=[PERS- V].[T -TNS]|wordform=kunu'kwai.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_009-009
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 66534, 67522
+# morphemic_text = aakö aakö
+# text = Aakö, aakö.
+# text_en =  Two, two.
+# text_es =  Dos, dos.
+# text_iu =  [Aakö, aakö.]
+# text_tg =  ^qty_adv/pred
+1	Aakö	aakö	_	NUM	_	_	_	_	AlignBegin=66534|AlignEnd=67028|GE=dos|Gloss=dos|MSeg=aakö|nWord=1|RX=[NUM]|wordform=Aakö,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	aakö	aakö	_	NUM	_	_	_	_	AlignBegin=67028|AlignEnd=67522|GE=dos|Gloss=dos|MSeg=aakö|nWord=2|RX=[NUM]|wordform=aakö.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_010-010
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 68588, 69277
+# morphemic_text = kiyede munu -Ø
+# text = ¿Kiyede munu?
+# text_en =  Manioc tubers?
+# text_es =  ¿Tubérculo de yuca?
+# text_iu =  [¿kiyede munu?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Kiyede	kiyede	NOUN	N	_	_	_	_	AlignBegin=68588|AlignEnd=68932|GE=yuca|Gloss=yuca|MSeg=kiyede|nWord=1|RX=[N]|wordform=¿Kiyede
+3	munu	munu	NOUN	N -SUF.N	_	_	_	_	AlignBegin=68932|AlignEnd=69277|GE=[tubérculo -POSS]|Gloss=tubérculo -POSS|MSeg=munu -Ø|nWord=2|RX=[N -SUF].[N]|wordform=munu?
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_011-011
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 69394, 70629
+# morphemic_text = ee y- munu -Ø
+# text = Ee, yumunu.
+# text_en =  Yes, its tubers.
+# text_es =  sí, su tuberculo, se lo trajo aquí, no en la cesta, aquí mismito
+# text_iu =  [Ee, yumunu.]
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=69394|AlignEnd=70012|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yumunu	munu	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=70012|AlignEnd=70629|GE=[3- tubérculo -POSS]|Gloss=3- tubérculo -POSS|MSeg=y- munu -Ø|nWord=2|RX=[PERS- N -SUF].[N]|wordform=yumunu.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_012-012
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 73996, 76843
+# morphemic_text = eetö kün- enejü -i yaawö wüwa aka -'da -mma yaawö eetö -:sa -mma
+# text = Eetö künnejö yaawö, wüwaka'damma yaawö, eetöösamma.
+# text_en =  She brought it here (on arms), not only in the basket then, exactly here.
+# text_es =  Se lo trajo aquí, no en la cesta, aquí mismito.
+# text_iu =  [Eetö künnejö yaawö,] [wüwaka'damma yaawö,] [eetösamma.]
+# text_tg =  ^wo_LVY
+1	Eetö	eetö	_	DEICT	_	_	_	_	AlignBegin=73996|AlignEnd=74470|GE=aquí|Gloss=aquí|MSeg=eetö|nWord=1|RX=[DEICT]
+2	künnejö	enejü	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=74470|AlignEnd=74944|GE=[3/3].[DIS- traer -PRP]|Gloss=3/3.DIS- traer -PRP|MSeg=kün- enejü -i|nWord=2|RX=[PERS- V].[T -TNS]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=74944|AlignEnd=75418|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yaawö,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	wüwaka'damma	wüwa aka	NOUN	N PP -PTC -PTC	_	_	_	_	AlignBegin=75418|AlignEnd=75892|GE=[cesta].[wüwa dentro -NEG -EXCL]|Gloss=cesta.wüwa dentro -NEG -EXCL|MSeg=wüwa aka -'da -mma|nWord=4|RX=[N PP -PTC -PTC]
+6	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=75892|AlignEnd=76366|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yaawö,
+7	,	_	PUNCT	_	_	_	_	_	_
+8	eetöösamma	eetö	_	DEICT -SUF.AD -PTC	_	_	_	_	AlignBegin=76366|AlignEnd=76843|GE=[aquí -DIM -EXCL]|Gloss=aquí -DIM -EXCL|MSeg=eetö -:sa -mma|nWord=6|RX=[DEICT -SUF].[AD -PTC]|wordform=eetöösamma.
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_013-013
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 79157, 83280
+# morphemic_text = yööje i- w- ei -jökkö möötö de'a wanö n- adö -a yaawö iyö *** n- üdü -a =dü
+# text = Yööje yeijökkö möötö denña wanö nadöa yaawö, iyö, tüweukuduije nüdüaadü.
+# text_en =  That is why the bee carries it precisely there then, that, the thing she does for honey.
+# text_es =  Es por eso que la abeja lleva ahí mismo, eso, lo que hace para su miel.
+# text_iu =  [Yööje yeijökkö] [möötö denña] [wanö nadöa yaawö,] [iyö,] [tüweukuduije nüdüaadü.]
+# text_tg =  ^rel_finite_O ^wo_MLAVY,O
+# text_qu =  Verificar qué análisis hay que hacer de tüweukuduije. Hay realmente una w? líquido se puede pronunciar ekkudu y eukudu?
+1	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=79157|AlignEnd=79569|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]
+2	yeijökkö	ei	VERB	PERS- PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=79569|AlignEnd=79981|GE=[3S- INTR- COP -porque]|Gloss=3S- INTR- COP -porque|MSeg=i- w- ei -jökkö|nWord=2|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V]
+3	möötö	möötö	_	DEICT	_	_	_	_	AlignBegin=79981|AlignEnd=80393|GE=allá.1|Gloss=allá.1|MSeg=möötö|nWord=3|RX=[DEICT]
+4	denña	de'a	_	PTC	_	_	_	_	AlignBegin=80393|AlignEnd=80805|GE=ahí.mismo|Gloss=ahí.mismo|MSeg=de'a|nWord=4|RX=[PTC]
+5	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=80805|AlignEnd=81217|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=5|RX=[N]
+6	nadöa	adö	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=81217|AlignEnd=81629|GE=[3/3- llevar -NPST]|Gloss=3/3- llevar -NPST|MSeg=n- adö -a|nWord=6|RX=[PERS- V].[T -SUF].[V]
+7	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=81629|AlignEnd=82041|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=7|RX=[PTC]|wordform=yaawö,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=82041|AlignEnd=82453|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=8|RX=[PRO]|wordform=iyö,
+10	,	_	PUNCT	_	_	_	_	_	_
+11	tüweukuduije		_	***	_	_	_	_	AlignBegin=82453|AlignEnd=82865|GE=[***]|Gloss=***|MSeg=***|nWord=9|RX=[***]
+12	nüdüaadü	üdü	VERB	PERS- V.T -SUF.V =PTC	_	_	_	_	AlignBegin=82865|AlignEnd=83280|GE=[3/3- hacer -NPST =REL]|Gloss=3/3- hacer -NPST =REL|MSeg=n- üdü -a =dü|nWord=10|RX=[PERS- V].[T -SUF].[V =PTC]|wordform=nüdüaadü.
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_014-014
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 83889, 84526
+# morphemic_text = eduwa na =dü
+# text = ¿Eduwa naadü?
+# text_en =  Currently?
+# text_es =  ¿Hasta ahora?
+# text_iu =  [¿Eduwa naadü?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Eduwa	eduwa	_	AD	_	_	_	_	AlignBegin=83889|AlignEnd=84207|GE=ahora|Gloss=ahora|MSeg=eduwa|nWord=1|RX=[AD]|wordform=¿Eduwa
+3	naadü	na	_	COP =PTC	_	_	_	_	AlignBegin=84207|AlignEnd=84526|GE=[3].[COP =REL]|Gloss=3.COP =REL|MSeg=na =dü|nWord=2|RX=[COP =PTC]|wordform=naadü?
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_015-015
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 84695, 86892
+# morphemic_text = ee t- ajö -dü jökkö de'a eetö i- n- ajoijö -dü
+# text = Ee, tajödüjökkö denña eetö, ñaajoijodü.
+# text_en =  Yes, she still sticks it on her arms, here.
+# text_es =  Todavía aquí en su brazo lo pega.
+# text_iu =  [Ee,] [tajödüjökkö denña eetö,] [ñaajoijodü.]
+# text_tg =  ^tp_nominative mainNocop imperfective
+# text_nt =  @ düPP
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=84695|AlignEnd=85134|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	tajödüjökkö	ajö	_	PERS- N -SUF.N PP	_	_	_	_	AlignBegin=85134|AlignEnd=85573|GE=[3].[REFL- brazo -POSS sobre]|Gloss=3.REFL- brazo -POSS sobre|MSeg=t- ajö -dü jökkö|nWord=2|RX=[PERS- N -SUF].[N PP]
+4	denña	de'a	_	PTC	_	_	_	_	AlignBegin=85573|AlignEnd=86012|GE=todavía|Gloss=todavía|MSeg=de'a|nWord=3|RX=[PTC]
+5	eetö	eetö	_	DEICT	_	_	_	_	AlignBegin=86012|AlignEnd=86451|GE=aquí|Gloss=aquí|MSeg=eetö|nWord=4|RX=[DEICT]|wordform=eetö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ñaajoijodü	ajoijö	VERB	PERS- NZR- V.T -SUF.V	_	_	_	_	AlignBegin=86451|AlignEnd=86892|GE=[3- SHR- pegar -NZR]|Gloss=3- SHR- pegar -NZR|MSeg=i- n- ajoijö -dü|nWord=5|RX=[PERS- NZR- V].[T -SUF].[V]|wordform=ñaajoijodü.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_016-016
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 91247, 92852
+# morphemic_text = tüwü kün- tö(mö) -i yaawö ñöödö
+# text = Tüwü küntömö yaawö ñöödö
+# text_en =  She went that one (I mentioned) then.§ Agouti went there.
+# text_es =  Ella se fue, aquella.
+# text_iu =  [Tüwü küntömö yaawö ñöödö,]
+# text_tg =  ^traj_ütömö_Go:Go_unwa ^wo_UVYU§^wo_UVL
+1	Tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=91247|AlignEnd=91648|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=1|RX=[PRO]
+2	küntömö	tö(mö)	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=91648|AlignEnd=92049|GE=[3S].[PAS- ir -PRP]|Gloss=3S.PAS- ir -PRP|MSeg=kün- tö(mö) -i|nWord=2|RX=[PERS- V].[I].[A -TNS]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=92049|AlignEnd=92450|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]
+4	ñöödö	ñöödö	PRON	PRO	_	_	_	_	AlignBegin=92450|AlignEnd=92852|GE=[AN:INV]|Gloss=AN:INV|MSeg=ñöödö|nWord=4|RX=[PRO]
+
+# sent_id = CtoAbjPic_017-017
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 92852, 94458
+# morphemic_text = akudi kün- tö(mö) -i unwaa
+# text = akudi küntömö unwa
+# text_en =  She went that one (I mentioned) then.§ Agouti went there.
+# text_es =  la picure se fue por allá.
+# text_iu =  [akudi küntömö unwa.]
+# text_tg =  ^traj_ütömö_Go:Go_unwa ^wo_UVYU§^wo_UVL
+1	akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=92852|AlignEnd=93387|GE=picure|Gloss=picure|MSeg=akudi|nWord=1|RX=[N]
+2	küntömö	tö(mö)	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=93387|AlignEnd=93922|GE=[3S].[PAS- ir -PRP]|Gloss=3S.PAS- ir -PRP|MSeg=kün- tö(mö) -i|nWord=2|RX=[PERS- V].[I].[A -TNS]
+3	unwa	unwaa	_	DEICT	_	_	_	_	AlignBegin=93922|AlignEnd=94458|GE=por.allá|Gloss=por.allá|MSeg=unwaa|nWord=3|RX=[DEICT]
+
+# sent_id = CtoAbjPic_018-018
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 94627, 95329
+# morphemic_text = i- wo'jüdü -Ø
+# text = ¿Yo'jüdü?
+# text_en =  Her mother-in-law?
+# text_es =  ¿su suegra?
+# text_iu =  [¿Yo'jüdü?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Yo'jüdü	wo'jüdü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=94627|AlignEnd=95329|GE=[3- suegra -POSS]|Gloss=3- suegra -POSS|MSeg=i- wo'jüdü -Ø|nWord=1|RX=[PERS- N -SUF].[N]|wordform=¿Yo'jüdü?
+3	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_019-019
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 95394, 98761
+# morphemic_text = i- wo'jüdü -Ø kiyede anna awö -:ne kün- u'ka -aakö yaawö
+# text = Yo'jüdü, Kiyede annawööne kunu'kwaakö yaawö.
+# text_en =  Her mother-in-law was harvesting it in the middle of the garden then.
+# text_es =  Su suegra estaba sacando (la yuca) en el medio del conuco.
+# text_iu =  [Yo'jüdü annak-] [Kiyede annawööne kunu'kwaakö yaawö.]
+# text_tg =  ^wo_LVY
+1	Yo'jüdü	wo'jüdü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=95394|AlignEnd=96067|GE=[3- suegra -POSS]|Gloss=3- suegra -POSS|MSeg=i- wo'jüdü -Ø|nWord=1|RX=[PERS- N -SUF].[N]|wordform=Yo'jüdü,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	Kiyede	kiyede	NOUN	N	_	_	_	_	AlignBegin=96067|AlignEnd=96740|GE=yuca|Gloss=yuca|MSeg=kiyede|nWord=2|RX=[N]
+4	annawööne	anna awö	NOUN	N PP -PTC	_	_	_	_	AlignBegin=96740|AlignEnd=97413|GE=[centro en -INTENS]|Gloss=centro en -INTENS|MSeg=anna awö -:ne|nWord=3|RX=[N PP -PTC]
+5	kunu'kwaakö	u'ka	VERB	PERS- V.T -TAM	_	_	_	_	AlignBegin=97413|AlignEnd=98086|GE=[3/3].[DIS- sacar -PDI]|Gloss=3/3.DIS- sacar -PDI|MSeg=kün- u'ka -aakö|nWord=4|RX=[PERS- V].[T -TAM]
+6	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=98086|AlignEnd=98761|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yaawö.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_020-020
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 102791, 109252
+# morphemic_text = yööje inña i- w- ei -dü de'a kün- ejö -i de'a tüwü yaawö
+# text = Yööje... inña... yeichü denña künejö denña tüwü yaawö.
+# text_en =  Thus, (while) still being there, she arrived again then,
+# text_es =  Así, mientras ella estaba allá, ella se vino.
+# text_iu =  [Yööje...] (3.0s) [inña... yeichü denña künejö denña tüwü yaawö.]
+# text_tg =  ^tp_copular CsubT ^traj_ejö_NoPath ^wo_V ; ^wo_VU
+1	Yööje…	yööje	_	AD	_	_	_	_	AlignBegin=102791|AlignEnd=103599|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]|wordform=Yööje...
+2	inña…	inña	_	DEICT	_	_	_	_	AlignBegin=103599|AlignEnd=104407|GE=allá|Gloss=allá|MSeg=inña|nWord=2|RX=[DEICT]|wordform=inña...
+3	yeichü	ei	VERB	PERS- PREF.V- V.I.A -TAM	_	_	_	_	AlignBegin=104407|AlignEnd=105215|GE=[3S- INTR- COP -IPFV]|Gloss=3S- INTR- COP -IPFV|MSeg=i- w- ei -dü|nWord=3|RX=[PERS- PREF].[V- V].[I].[A -TAM]
+4	denña	de'a	_	PTC	_	_	_	_	AlignBegin=105215|AlignEnd=106023|GE=[REIT]|Gloss=REIT|MSeg=de'a|nWord=4|RX=[PTC]
+5	künejö	ejö	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=106023|AlignEnd=106831|GE=[3S].[PAS- venir -PRP]|Gloss=3S.PAS- venir -PRP|MSeg=kün- ejö -i|nWord=5|RX=[PERS- V].[I].[A -TNS]
+6	denña	de'a	_	PTC	_	_	_	_	AlignBegin=106831|AlignEnd=107639|GE=[REIT]|Gloss=REIT|MSeg=de'a|nWord=6|RX=[PTC]
+7	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=107639|AlignEnd=108447|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=7|RX=[PRO]
+8	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=108447|AlignEnd=109252|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=8|RX=[PTC]|wordform=yaawö.
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_021-021
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 111072, 112587
+# morphemic_text = iyö y- munu -Ø -'kö ya'me yaawö
+# text = Iyö yumunu'kö ya'me yaawö
+# text_en =  Loaded with that tuber.§ She unloaded then there.
+# text_es =  Con ese tuberculo.
+# text_iu =  [Iyö yumunu'kö ya'me yaawö,]
+# text_tg =  §^dtrVerb_ö'dü _pas ^pro_art §^wo_V
+1	Iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=111072|AlignEnd=111451|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=1|RX=[PRO]
+2	yumunu'kö	munu	_	PERS- N -SUF.N -SUF.N	_	_	_	_	AlignBegin=111451|AlignEnd=111830|GE=[3- tubérculo -POSS -DIM]|Gloss=3- tubérculo -POSS -DIM|MSeg=y- munu -Ø -'kö|nWord=2|RX=[PERS- N -SUF].[N -SUF].[N]
+3	ya'me	ya'me	ADP	PP	_	_	_	_	AlignBegin=111830|AlignEnd=112209|GE=consigo|Gloss=consigo|MSeg=ya'me|nWord=3|RX=[PP]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=112209|AlignEnd=112587|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]
+
+# sent_id = CtoAbjPic_022-022
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 112587, 113884
+# morphemic_text = kün- ö'dü -i yaawö inña
+# text = künö'düi yaawö inña
+# text_en =  Loaded with that tuber.§ She unloaded then there.
+# text_es =  La dejó allá.
+# text_iu =  [künö'düi yaawö inña.]
+# text_tg =  §^dtrVerb_ö'dü _pas ^pro_art §^wo_V
+1	künö'düi	ö'dü	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=112587|AlignEnd=113019|GE=[3S].[PAS- ponerse -PRP]|Gloss=3S.PAS- ponerse -PRP|MSeg=kün- ö'dü -i|nWord=1|RX=[PERS- V].[I].[A -TNS]
+2	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=113019|AlignEnd=113451|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=2|RX=[PTC]
+3	inña	inña	_	DEICT	_	_	_	_	AlignBegin=113451|AlignEnd=113884|GE=allá|Gloss=allá|MSeg=inña|nWord=3|RX=[DEICT]
+
+# sent_id = CtoAbjPic_023-023
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 117676, 119288
+# morphemic_text = yöötö kanaawa aka kün- üdü -i
+# text = Yöötö kanaawaka künnüi.
+# text_en =  She put it there inside the canoe.
+# text_es =  Lo puso allí en la kanawa.
+# text_iu =  [Yööötö kanaawaka künnüi.]
+# text_tg =  ^wo_LV
+1	Yöötö	yöötö	_	DEICT	_	_	_	_	AlignBegin=117676|AlignEnd=118213|GE=allá|Gloss=allá|MSeg=yöötö|nWord=1|RX=[DEICT]
+2	kanaawaka	kanaawa aka	NOUN	N PP	_	_	_	_	AlignBegin=118213|AlignEnd=118750|GE=canoa dentro|Gloss=canoa dentro|MSeg=kanaawa aka|nWord=2|RX=[N PP]
+3	künnüi	üdü	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=118750|AlignEnd=119288|GE=[3/3].[DIS- poner -PAS]|Gloss=3/3.DIS- poner -PAS|MSeg=kün- üdü -i|nWord=3|RX=[PERS- V].[T -TNS]|wordform=künnüi.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_024-024
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 121329, 123474
+# morphemic_text = iyö ajo'jo kün- ö'dü -i yaawö
+# text = Iyö, ajo'jo künö'düi yaawö.
+# text_en =  Um, it became big (lots) then.
+# text_es =  Eso se puso grande (mucho).
+# text_iu =  [Iyö,] [ ajo'jo künö'düi yaawö.]
+# text_tg =  ^adv_RESULT_ajo'jo_grande ^dtrVerb_ö'dü_ponerse ^wo_UMVY
+1	Iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=121329|AlignEnd=121865|GE=[IN:INV].[FILLER]|Gloss=IN:INV.FILLER|MSeg=iyö|nWord=1|RX=[PRO]|wordform=Iyö,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	ajo'jo	ajo'jo	_	AD	_	_	_	_	AlignBegin=121865|AlignEnd=122401|GE=grande|Gloss=grande|MSeg=ajo'jo|nWord=2|RX=[AD]
+4	künö'düi	ö'dü	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=122401|AlignEnd=122937|GE=[3S].[PAS- ponerse -PRP]|Gloss=3S.PAS- ponerse -PRP|MSeg=kün- ö'dü -i|nWord=3|RX=[PERS- V].[I].[A -TNS]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=122937|AlignEnd=123474|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_025-025
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 127582, 128388
+# morphemic_text = aakö -ato -'kö
+# text = ¿Aakoto'kö?
+# text_en =  That which was two?
+# text_es =  ¿Lo que era dos?
+# text_iu =  [¿Aakoto'kö?]
+# text_tg =  ^adv_ARG_aakö-ato_dos:num ^nvp_QuantNzd_nvpFUNC_attribution_nvpSYN_subordinate? ^qty_NP-ato
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Aakoto'kö	aakö	_	NUM -SUF.AD -SUF.N	_	_	_	_	AlignBegin=127582|AlignEnd=128388|GE=[dos -NZR -DIM]|Gloss=dos -NZR -DIM|MSeg=aakö -ato -'kö|nWord=1|RX=[NUM -SUF].[AD -SUF].[N]|wordform=¿Aakoto'kö?
+3	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_026-026
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 128531, 129259
+# morphemic_text = aakö -ato
+# text = Aakoto.
+# text_en =  That which was two.
+# text_es =  Lo que era dos.
+# text_iu =  [Aakoto.]
+# text_tg =  ^adv_ARG_aakö-ato_dos:num ^qty_NP-ato
+1	Aakoto	aakö	_	NUM -SUF.AD	_	_	_	_	AlignBegin=128531|AlignEnd=129259|GE=[dos -NZR]|Gloss=dos -NZR|MSeg=aakö -ato|nWord=1|RX=[NUM -SUF].[AD]|wordform=Aakoto.
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_027-027
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 131521, 136292
+# morphemic_text = chö- ötü -Ø kün- a'ja -aakö tüwü akudi e- ötü -Ø Manawa
+# text = Chöötü küna'jaakö tüwü… akudi etü , " Manawa " .
+# text_en =  Her name was, Agouti's name, "Manawa".
+# text_es =  El nombre del picure era "Manawa".
+# text_iu =  [Chöötü küna'jaakö tüwü...] [akudi etü,] ["Manawa".]
+# text_tg =  ^wo_SubCopPred?
+1	Chöötü	ötü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=131521|AlignEnd=132316|GE=[3- nombre -POSS]|Gloss=3- nombre -POSS|MSeg=chö- ötü -Ø|nWord=1|RX=[PERS- N -SUF].[N]
+2	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=132316|AlignEnd=133111|GE=[3].[DIS- COP -PDI]|Gloss=3.DIS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=2|RX=[PERS- V].[I].[A -TAM]
+3	tüwü…	tüwü	PRON	PRO	_	_	_	_	AlignBegin=133111|AlignEnd=133906|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=3|RX=[PRO]|wordform=tüwü...
+4	akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=133906|AlignEnd=134701|GE=picure|Gloss=picure|MSeg=akudi|nWord=4|RX=[N]
+5	etü	ötü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=134701|AlignEnd=135496|GE=[REL- nombre -POSS]|Gloss=REL- nombre -POSS|MSeg=e- ötü -Ø|nWord=5|RX=[PERS- N -SUF].[N]|wordform=etü,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	"	"	PROPN	N.P	_	_	_	_	AlignBegin=135496|AlignEnd=136292|GE=[Manawa]|Gloss=Manawa|MSeg=Manawa|nWord=6|RX=[N].[P]|wordform="Manawa".
+8	Manawa	Manawa	PROPN	N.P	_	_	_	_	AlignBegin=135496|AlignEnd=136292|GE=[Manawa]|Gloss=Manawa|MSeg=Manawa|nWord=6|RX=[N].[P]|wordform="Manawa".
+9	"	_	PUNCT	_	_	_	_	_	_
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_028-028
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 137254, 138060
+# morphemic_text = Manawa
+# text = Manawa.
+# text_en =  Manawa.
+# text_es =  Manawa
+# text_iu =  [Manawa.]
+1	Manawa	Manawa	PROPN	N.P	_	_	_	_	AlignBegin=137254|AlignEnd=138060|GE=[Manawa]|Gloss=Manawa|MSeg=Manawa|nWord=1|RX=[N].[P]|wordform=Manawa.
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_029-029
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 138801, 142662
+# morphemic_text = ***- tüwü wanö e- ötü -Ø kün- a'ja -aakö yaawö Tajööju
+# text = Tüw- tüwü wanö etü küna'jaakö yaawö, Tajööju.
+# text_en =  The name of Bee was then "Tajööjü",
+# text_es =  El nombre de la abeja era Tajööju.
+# text_iu =  [tüw- tüwü wanö etü küna'jaakö yaawö,] [Tajööju.]
+# text_tg =  ^nvp_ProNNposCopYN_nvpFUNC_inclusion_nvoWO_[NCopN] ^pro_art ^wo_SubCopYPred
+# text_nt =  NCOPyaawöN
+1	Tüw-		_	***	_	_	_	_	AlignBegin=138801|AlignEnd=139353|GE=[***]|Gloss=***-|MSeg=***-|nWord=1|RX=[***]
+2	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=139353|AlignEnd=139905|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=2|RX=[PRO]
+3	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=139905|AlignEnd=140457|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=3|RX=[N]
+4	etü	ötü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=140457|AlignEnd=141009|GE=[REL- nombre -POSS]|Gloss=REL- nombre -POSS|MSeg=e- ötü -Ø|nWord=4|RX=[PERS- N -SUF].[N]
+5	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=141009|AlignEnd=141561|GE=[3].[DIS- COP -PDI]|Gloss=3.DIS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=5|RX=[PERS- V].[I].[A -TAM]
+6	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=141561|AlignEnd=142113|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=6|RX=[PTC]|wordform=yaawö,
+7	,	_	PUNCT	_	_	_	_	_	_
+8	Tajööju	Tajööju	PROPN	N.P	_	_	_	_	AlignBegin=142113|AlignEnd=142662|GE=[Tajööju]|Gloss=Tajööju|MSeg=Tajööju|nWord=7|RX=[N].[P]|wordform=Tajööju.
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_030-030
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 143221, 144014
+# morphemic_text = Tajööju
+# text = Tajööju
+# text_en =  Tajööju.
+# text_es =  Tajööju
+# text_iu =  [Tajööju]
+1	Tajööju	Tajööju	PROPN	N.P	_	_	_	_	AlignBegin=143221|AlignEnd=144014|GE=[Tajööju]|Gloss=Tajööju|MSeg=Tajööju|nWord=1|RX=[N].[P]
+
+# sent_id = CtoAbjPic_031-031
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 146978, 149734
+# morphemic_text = iyö t- ajö -dü =jo Ø- adö -jüdü w- ei -jökkö ke
+# text = Iyö, tajödüjo adö'jüdü weijökkö, ke.
+# text_en =  Um, because she carried it on her own arms, it is said.
+# text_es =  Es porque ella lo llevo en su brazo.
+# text_iu =  [Iyö,] [tajöödüjo adö'jüdü weijökkö, ke.]
+# text_tg =  ^pro_cleft? ^wo_XVZ
+# text_nt =  düPP? @ -jüdü=SUBwithCOP
+# text_qu =  Escuchar: parece que dijera tajö'jö en vez de tajöödüjo
+1	Iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=146978|AlignEnd=147529|GE=[IN:INV].[FILLER]|Gloss=IN:INV.FILLER|MSeg=iyö|nWord=1|RX=[PRO]|wordform=Iyö,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	tajödüjo	ajö	_	PERS- N -SUF.N =PP	_	_	_	_	AlignBegin=147529|AlignEnd=148080|GE=[3].[REFL- brazo -POSS =en]|Gloss=3.REFL- brazo -POSS =en|MSeg=t- ajö -dü =jo|nWord=2|RX=[PERS- N -SUF].[N =PP]
+4	adö'jüdü	adö	VERB	PERS- V.T -NZR	_	_	_	_	AlignBegin=148080|AlignEnd=148631|GE=[3O- llevar -PAS].[NZR]|Gloss=3O- llevar -PAS.NZR|MSeg=Ø- adö -jüdü|nWord=3|RX=[PERS- V].[T -NZR]
+5	weijökkö	ei	VERB	PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=148631|AlignEnd=149182|GE=[INTR- COP -porque]|Gloss=INTR- COP -porque|MSeg=w- ei -jökkö|nWord=4|RX=[PREF].[V- V].[I].[A -SUF].[V]|wordform=weijökkö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ke	ke	_	PTC	_	_	_	_	AlignBegin=149182|AlignEnd=149734|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=5|RX=[PTC]|wordform=ke.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_032-032
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 154726, 158418
+# morphemic_text = yaawö kün- ö'dü -i tüwü yaawö
+# text = Yaawö, künö'düi tüwü yaawö.
+# text_en =  At that moment, she (Agouti) arrived then,
+# text_es =  Ahí llegó ella (la picure).
+# text_iu =  [Yaawö,] [künö'düi tüwü yaawö.]
+# text_tg =  ^dtrVerb_ö'dü_llegar ^wo_VSY
+1	Yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=154726|AlignEnd=155649|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=1|RX=[PTC]|wordform=Yaawö,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	künö'düi	ö'dü	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=155649|AlignEnd=156572|GE=[3S].[PAS- llegar -PRP]|Gloss=3S.PAS- llegar -PRP|MSeg=kün- ö'dü -i|nWord=2|RX=[PERS- V].[I].[A -TNS]
+4	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=156572|AlignEnd=157495|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=3|RX=[PRO]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=157495|AlignEnd=158418|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_033-033
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 159008, 162016
+# morphemic_text = akude eetö i- w- ei -dü
+# text = Ökude eetö yeichü
+# text_en =  Late, (the sun) was here.§ "It being after noon", it is said (in) Ye'kwana.
+# text_es =  Tarde.
+# text_iu =  [Ökude eetö yeichü.] § [Önunnake- önunnake yeijü'je yeichü, ke,] [ye'kwana a'deddu.]
+# text_tg =  ^tp_copular-Cprog§^tp_copular-Cprog
+# text_nt =  meteo§ @ COPx2?
+1	Ökude	akude	_	AD	_	_	_	_	AlignBegin=159008|AlignEnd=160011|GE=tarde|Gloss=tarde|MSeg=akude|nWord=1|RX=[AD]
+2	eetö	eetö	_	DEICT	_	_	_	_	AlignBegin=160011|AlignEnd=161014|GE=aquí|Gloss=aquí|MSeg=eetö|nWord=2|RX=[DEICT]
+3	yeichü	ei	VERB	PERS- PREF.V- V.I.A -TAM§	_	_	_	_	AlignBegin=161014|AlignEnd=162016|GE=[3S- INTR- COP -IPFV§]|Gloss=3S- INTR- COP -IPFV§|MSeg=i- w- ei -dü|nWord=3|RX=[PERS- PREF].[V- V].[I].[A -TAM§]
+
+# sent_id = CtoAbjPic_034-034
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 162016, 166008
+# morphemic_text = onunnake i- w- ei ='jüje i- w- ei -dü ke ye'kwana a'deu -dü
+# text = Önunnake yei'jüje yeichü, ke, ye'kwana a'deddu.
+# text_en =  Late, (the sun) was here.§ "It being after noon", it is said (in) Ye'kwana.
+# text_es =  Como a medio día, así dice ye'kwana.
+# text_iu =  [Ökude eetö yeichü.] § [Önunnake- önunnake yeijü'je yeichü, ke,] [ye'kwana a'deddu.]
+# text_tg =  ^tp_copular-Cprog§^tp_copular-Cprog
+# text_nt =  meteo§ @ COPx2?
+1	Önunnake	onunnake	_	AD	_	_	_	_	AlignBegin=162016|AlignEnd=162681|GE=medio.día|Gloss=medio.día|MSeg=onunnake|nWord=1|RX=[AD]
+2	yei'jüje	ei	VERB	PERS- PREF.V- V.I.A PTC	_	_	_	_	AlignBegin=162681|AlignEnd=163346|GE=[3S- INTR- COP después]|Gloss=3S- INTR- COP después|MSeg=i- w- ei ='jüje|nWord=2|RX=[PERS- PREF].[V- V].[I].[A PTC]
+3	yeichü	ei	VERB	PERS- PREF.V- V.I.A -TAM	_	_	_	_	AlignBegin=163346|AlignEnd=164011|GE=[3S- INTR- COP -IPFV]|Gloss=3S- INTR- COP -IPFV|MSeg=i- w- ei -dü|nWord=3|RX=[PERS- PREF].[V- V].[I].[A -TAM]|wordform=yeichü,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ke	ke	_	PTC	_	_	_	_	AlignBegin=164011|AlignEnd=164676|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]|wordform=ke,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	ye'kwana	ye'kwana	NOUN	N	_	_	_	_	AlignBegin=164676|AlignEnd=165341|GE=ye'kwana|Gloss=ye'kwana|MSeg=ye'kwana|nWord=5|RX=[N]
+8	a'deddu	a'deu	NOUN	N -SUF.N	_	_	_	_	AlignBegin=165341|AlignEnd=166008|GE=[palabra -POSS]|Gloss=palabra -POSS|MSeg=a'deu -dü|nWord=6|RX=[N -SUF].[N]|wordform=a'deddu.
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_035-035
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 167167, 169845
+# morphemic_text = yaawö kün- ö'dü -i tüwü akudi
+# text = Yaawö künö'düi tüwü, akudi.
+# text_en =  At that moment she arrived, Agouti,
+# text_es =  Ahí llegó ella la picure.
+# text_iu =  [Yaawö künö'düi tüwü,] [akudi.]
+# text_tg =  ^dtrVerb_ö'dü_llegar ^wo_TVU
+1	Yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=167167|AlignEnd=167837|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=1|RX=[PTC]
+2	künö'düi	ö'dü	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=167837|AlignEnd=168507|GE=[3S].[PAS- llegar -PRP]|Gloss=3S.PAS- llegar -PRP|MSeg=kün- ö'dü -i|nWord=2|RX=[PERS- V].[I].[A -TNS]
+3	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=168507|AlignEnd=169177|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=3|RX=[PRO]|wordform=tüwü,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=169177|AlignEnd=169845|GE=picure|Gloss=picure|MSeg=akudi|nWord=4|RX=[N]|wordform=akudi.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_036-036
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 170495, 171886
+# morphemic_text = kiyede ya'me edöje iñso
+# text = Kiyede ya'me edöje insho.
+# text_en =  Loaded with this much manioc.
+# text_es =  Con yuca, así mucho (bastante yuca).
+# text_iu =  [Kiyede ya'me edöje insho]
+# text_tg =  ^qty_adv_admod
+1	Kiyede	kiyede	NOUN	N	_	_	_	_	AlignBegin=170495|AlignEnd=170843|GE=yuca|Gloss=yuca|MSeg=kiyede|nWord=1|RX=[N]
+2	ya'me	ya'me	ADP	PP	_	_	_	_	AlignBegin=170843|AlignEnd=171191|GE=consigo|Gloss=consigo|MSeg=ya'me|nWord=2|RX=[PP]
+3	edöje	edöje	_	AD	_	_	_	_	AlignBegin=171191|AlignEnd=171539|GE=así|Gloss=así|MSeg=edöje|nWord=3|RX=[AD]
+4	insho	iñso	_	AD	_	_	_	_	AlignBegin=171539|AlignEnd=171886|GE=mucho|Gloss=mucho|MSeg=iñso|nWord=4|RX=[AD]|wordform=insho.
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_037-037
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 173979, 176943
+# morphemic_text = tüwü t- a'ka -jötü -e tüwü yaawö aakö
+# text = Tüwü ta'kajö'e tüwü yaawö, aakö...
+# text_en =  That was poured then. Two...
+# text_es =  Ella ya en masa, ella.
+# text_iu =  [Tüwü ta'kajö'e tüwü yaawö,] [aaköch- aakö...]
+# text_tg =  ^ve_Overify_a'ka
+# text_qu =  Verificar cual es el significado de la raiz del verbo principal, si tüwü no se refiere más bien a los tuberculos, y la traducción para entender la función del participio (12-02-2014)
+1	Tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=173979|AlignEnd=174572|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=1|RX=[PRO]
+2	ta'kajö'e	a'ka	VERB	ADVR- V.T -TAM -SUF.V	_	_	_	_	AlignBegin=174572|AlignEnd=175165|GE=[AZR- servir? -ITER -PTCPe]|Gloss=AZR- servir? -ITER -PTCPe|MSeg=t- a'ka -jötü -e|nWord=2|RX=[ADVR- V].[T -TAM -SUF].[V]
+3	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=175165|AlignEnd=175758|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=3|RX=[PRO]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=175758|AlignEnd=176351|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aakö…	aakö	_	NUM	_	_	_	_	AlignBegin=176351|AlignEnd=176943|GE=dos|Gloss=dos|MSeg=aakö|nWord=5|RX=[NUM]|wordform=aakö...
+
+# sent_id = CtoAbjPic_038-038
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 177294, 179231
+# morphemic_text = aakö tünküi kün- enüntö -i iyö
+# text = Aakö tünküi künenüntöi iyö.
+# text_en =  That filled two manioc presses.
+# text_es =  Lo puso en dos sebucanes.
+# text_iu =  [Aakö tünküi künenüntöi iyö.]
+# text_tg =  ^qty_adv_Oarg
+# text_qu =  Verificar a qué se refiere iyö, a la masa?
+1	Aakö	aakö	_	NUM	_	_	_	_	AlignBegin=177294|AlignEnd=177778|GE=dos|Gloss=dos|MSeg=aakö|nWord=1|RX=[NUM]
+2	tünküi	tünküi	NOUN	N	_	_	_	_	AlignBegin=177778|AlignEnd=178262|GE=sebucán|Gloss=sebucán|MSeg=tünküi|nWord=2|RX=[N]
+3	künenüntöi	enüntö	VERB	PERS- V.T -TAM	_	_	_	_	AlignBegin=178262|AlignEnd=178746|GE=[3/3].[DIS- llenar].[sebucán -PRP]|Gloss=3/3.DIS- llenar.sebucán -PRP|MSeg=kün- enüntö -i|nWord=3|RX=[PERS- V].[T -TAM]
+4	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=178746|AlignEnd=179231|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=4|RX=[PRO]|wordform=iyö.
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_039-039
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 182442, 185692
+# morphemic_text = kusshi kün- üdü -i de'a tüwü =mmaja yaawö wanö =mmaja
+# text = Kusshi künnüi chenña tüwümmaja yaawö. Wanömmaja.
+# text_en =  She also had also prepared the drink then, Bee also.
+# text_es =  Ya había hecho la bebida (kushi) ella misma, la abeja misma.
+# text_iu =  [Kushi künnüi chenña tüwümmaja yaawö.] [Wanömmaja.]
+# text_tg =  ^wo_OVAY
+1	Kusshi	kusshi	NOUN	N	_	_	_	_	AlignBegin=182442|AlignEnd=182984|GE=bebida.kusshi|Gloss=bebida.kusshi|MSeg=kusshi|nWord=1|RX=[N]
+2	künnüi	üdü	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=182984|AlignEnd=183526|GE=[3/3].[DIS- hacer -PRP]|Gloss=3/3.DIS- hacer -PRP|MSeg=kün- üdü -i|nWord=2|RX=[PERS- V].[T -TNS]
+3	chenña	de'a	_	PTC	_	_	_	_	AlignBegin=183526|AlignEnd=184068|GE=[REIT]|Gloss=REIT|MSeg=de'a|nWord=3|RX=[PTC]
+4	tüwümmaja	tüwü	_	PRO PTC	_	_	_	_	AlignBegin=184068|AlignEnd=184610|GE=[3SG =también]|Gloss=3SG =también|MSeg=tüwü =mmaja|nWord=4|RX=[PRO PTC]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=184610|AlignEnd=185152|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+7	Wanömmaja	wanö	NOUN	N PTC	_	_	_	_	AlignBegin=185152|AlignEnd=185692|GE=abeja =también|Gloss=abeja =también|MSeg=wanö =mmaja|nWord=6|RX=[N PTC]|wordform=Wanömmaja.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_040-040
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 188136, 191737
+# morphemic_text = kaado kün- a'ja -aakö i- n- üdü -dü ke asuka -'je -no wa'kö
+# text = Kaado küna'jaakö inñüdü ke, asuka'jaano wa'kö.
+# text_en =  She had prepared it tasty, it is said, as if it had sugar.
+# text_es =  Lo había hecho rico (dulce), como si fuera con azúcar.
+# text_iu =  [Kaado küna'jaakö inñüdü ke,] [asuka jaano wa'kö.]
+# text_tg =  ^tp_nominative mainPrecop anteriorpast ^wo_PredCopSub
+1	Kaado	kaado	_	AD	_	_	_	_	AlignBegin=188136|AlignEnd=188736|GE=rico|Gloss=rico|MSeg=kaado|nWord=1|RX=[AD]
+2	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=188736|AlignEnd=189336|GE=[3].[DIS- COP -PDI]|Gloss=3.DIS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=2|RX=[PERS- V].[I].[A -TAM]
+3	inñüdü	üdü	VERB	PERS- NZR- V.T -SUF.V	_	_	_	_	AlignBegin=189336|AlignEnd=189936|GE=[3- SHR- hacer -NZR]|Gloss=3- SHR- hacer -NZR|MSeg=i- n- üdü -dü|nWord=3|RX=[PERS- NZR- V].[T -SUF].[V]
+4	ke	ke	_	PTC	_	_	_	_	AlignBegin=189936|AlignEnd=190536|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]|wordform=ke,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	asuka'jaano	asuka	_	N.ESP -PP -SUF.PP	_	_	_	_	AlignBegin=190536|AlignEnd=191136|GE=[azúcar -con -NZR].[PP]|Gloss=azúcar -con -NZR.PP|MSeg=asuka -'je -no|nWord=5|RX=[N].[ESP -PP -SUF].[PP]
+7	wa'kö	wa'kö	ADP	PP	_	_	_	_	AlignBegin=191136|AlignEnd=191737|GE=igual|Gloss=igual|MSeg=wa'kö|nWord=6|RX=[PP]|wordform=wa'kö.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_041-041
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 193453, 198744
+# morphemic_text = iyö i- w- entatü' -tojo addödö =mmaja yaawö
+# text = Iyö... yentatütojo addödömmaja yaawö...
+# text_en =  That, the mouth rinse was also on the side then.
+# text_es =  Eso... el enjuague para la boca estaba aparte...
+# text_iu =  [Iyö...] (3.0s) [yentatü'tojo addödömmaja yaawö...]
+# text_tg =  ^adv_NVP_addödö_aparte ^wo_SubPredY
+1	Iyö…	iyö	PRON	PRO	_	_	_	_	AlignBegin=193453|AlignEnd=194776|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=1|RX=[PRO]|wordform=Iyö...
+2	yentatütojo	entatü'	VERB	PERS- PREF.V- V.I -NLZR	_	_	_	_	AlignBegin=194776|AlignEnd=196099|GE=[3S- INTR- enjuagar].[boca -INSTR]|Gloss=3S- INTR- enjuagar.boca -INSTR|MSeg=i- w- entatü' -tojo|nWord=2|RX=[PERS- PREF].[V- V].[I -NLZR]
+3	addödömmaja	addödö	_	AD PTC	_	_	_	_	AlignBegin=196099|AlignEnd=197422|GE=aparte =también|Gloss=aparte =también|MSeg=addödö =mmaja|nWord=3|RX=[AD PTC]
+4	yaawö…	yaawö	_	PTC	_	_	_	_	AlignBegin=197422|AlignEnd=198744|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö...
+
+# sent_id = CtoAbjPic_042-042
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 199264, 200538
+# morphemic_text = kaado =mmaja i- w- entatü' -tojo
+# text = Kaadommaja yentatü'tojo.
+# text_en =  The mouth rinse was also tasty.
+# text_es =  El enjuage de boca también era rico.
+# text_iu =  [Kaadommaja yentatü'tojo.]
+# text_tg =  ^wo_PredSub
+1	Kaadommaja	kaado	_	AD PTC	_	_	_	_	AlignBegin=199264|AlignEnd=199901|GE=rico =también|Gloss=rico =también|MSeg=kaado =mmaja|nWord=1|RX=[AD PTC]
+2	yentatü'tojo	entatü'	VERB	PERS- PREF.V- V.I -NLZR	_	_	_	_	AlignBegin=199901|AlignEnd=200538|GE=[3S- INTR- enjuagar].[boca -INSTR]|Gloss=3S- INTR- enjuagar.boca -INSTR|MSeg=i- w- entatü' -tojo|nWord=2|RX=[PERS- PREF].[V- V].[I -NLZR]|wordform=yentatü'tojo.
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_043-043
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 208585, 212017
+# morphemic_text = yööje kün- unmicha -i yaawö t- wüwa -dü
+# text = Yööje kunummichai yaawö. Tüuwadü.
+# text_en =  Thus she let it go then, her own basket.
+# text_es =  Así soltó (puso) su cesta.
+# text_iu =  [Yööje kunummichai yaawö.] (1.5s) [Tüuwadü.]
+# text_tg =  ^wo_MV
+1	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=208585|AlignEnd=209443|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]
+2	kunummichai	unmicha	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=209443|AlignEnd=210301|GE=[3/3].[DIS- soltar -PRP]|Gloss=3/3.DIS- soltar -PRP|MSeg=kün- unmicha -i|nWord=2|RX=[PERS- V].[T -TNS]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=210301|AlignEnd=211159|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yaawö.
+4	.	_	PUNCT	_	_	_	_	_	_
+5	Tüuwadü	wüwa	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=211159|AlignEnd=212017|GE=[3].[REFL- cesta].[wüwa -POSS]|Gloss=3.REFL- cesta.wüwa -POSS|MSeg=t- wüwa -dü|nWord=4|RX=[PERS- N -SUF].[N]|wordform=Tüuwadü.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_044-044
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 215163, 216372
+# morphemic_text = jadaanü nkawö ke
+# text = " Jadaanü nkawö " ke .
+# text_en =  "en la espalda de su nuera".
+# text_es =  "en la espalda de su nuera"
+# text_iu =  ["Jadaanü nkawö" ke.]
+# text_qu =  Verificar que la traducción no es más bien: 'en la espalda de la nuera' en vez de 'su'
+1	"	"	NOUN	N	_	_	_	_	AlignBegin=215163|AlignEnd=215566|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=1|RX=[N]
+2	Jadaanü	Jadaanü	NOUN	N	_	_	_	_	AlignBegin=215163|AlignEnd=215566|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=1|RX=[N]
+3	nkawö	nkawö	ADP	PP	_	_	_	_	AlignBegin=215566|AlignEnd=215969|GE=encima|Gloss=encima|MSeg=nkawö|nWord=2|RX=[PP]|wordform=nkawö"
+4	"	_	PUNCT	_	_	_	_	_	_
+5	ke	ke	_	PTC	_	_	_	_	AlignBegin=215969|AlignEnd=216372|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=3|RX=[PTC]|wordform=ke.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_045-045
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 216983, 217945
+# morphemic_text = Jaadana nkawö
+# text = " Jaadana nkawö "
+# text_en =  "Jadanankawö".
+# text_es =  "Jadanankawö"
+# text_iu =  "Jadana nkawö"
+1	"	"	PROPN	N.P	_	_	_	_	AlignBegin=216983|AlignEnd=217464|GE=[Jaadana]|Gloss=Jaadana|MSeg=Jaadana|nWord=1|RX=[N].[P]
+2	Jaadana	Jaadana	PROPN	N.P	_	_	_	_	AlignBegin=216983|AlignEnd=217464|GE=[Jaadana]|Gloss=Jaadana|MSeg=Jaadana|nWord=1|RX=[N].[P]
+3	nkawö	nkawö	ADP	PP	_	_	_	_	AlignBegin=217464|AlignEnd=217945|GE=encima|Gloss=encima|MSeg=nkawö|nWord=2|RX=[PP]|wordform=nkawö"
+4	"	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_046-046
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 218244, 219869
+# morphemic_text = jadaanü jadaanü
+# text = Jadaanü, jadaanü.
+# text_en =  Nuera, nuera.
+# text_es =  Nuera, nuera.
+# text_iu =  [Jadaanü, jadaanü]
+1	Jadaanü	jadaanü	NOUN	N	_	_	_	_	AlignBegin=218244|AlignEnd=219056|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=1|RX=[N]|wordform=Jadaanü,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	jadaanü	jadaanü	NOUN	N	_	_	_	_	AlignBegin=219056|AlignEnd=219869|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=2|RX=[N]|wordform=jadaanü.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_047-047
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 219999, 221325
+# morphemic_text = aaa jadaanü nkawö
+# text = ¡ Aaa ! " jadaanü nkawö " .
+# text_en =  ¡Ah! "en la espalda de nuera".
+# text_es =  ¡Ah! "en la espalda de nuera".
+# text_iu =  [¡Aaa!] ["jadaanü nkawö".]
+1	¡	¡	_	INTERJ	_	_	_	_	AlignBegin=219999|AlignEnd=220441|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]
+2	Aaa	Aaa	_	INTERJ	_	_	_	_	AlignBegin=219999|AlignEnd=220441|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]
+3	!	!	PUNCT	INTERJ	_	_	_	_	AlignBegin=219999|AlignEnd=220441|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]
+4	"	"	NOUN	N	_	_	_	_	AlignBegin=220441|AlignEnd=220883|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=2|RX=[N]
+5	jadaanü	jadaanü	NOUN	N	_	_	_	_	AlignBegin=220441|AlignEnd=220883|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=2|RX=[N]
+6	nkawö	nkawö	ADP	PP	_	_	_	_	AlignBegin=220883|AlignEnd=221325|GE=encima|Gloss=encima|MSeg=nkawö|nWord=3|RX=[PP]|wordform=nkawö".
+7	"	_	PUNCT	_	_	_	_	_	_
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_048-048
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 221390, 225251
+# morphemic_text = ee jadaanü nkawö ke tü t- wüwa -dü kün- unmicha -i
+# text = Ee , " jadaanü nkawö " , ke tü , tüuwadü kunummichai .
+# text_en =  Sí, "en la espalda de su nuera" así es que soltó su cesta (llena de yuca).
+# text_es =  Sí, "en la espalda de su nuera" así es que soltó su cesta (llena de yuca).
+# text_iu =  Ee, "jadaanünkawö", ke tü, tüuwadü kunummichai.
+# text_tg =  ^wo_OV
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=221390|AlignEnd=221942|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	"	"	NOUN	N	_	_	_	_	AlignBegin=221942|AlignEnd=222494|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=2|RX=[N]
+4	jadaanü	jadaanü	NOUN	N	_	_	_	_	AlignBegin=221942|AlignEnd=222494|GE=nuera|Gloss=nuera|MSeg=jadaanü|nWord=2|RX=[N]
+5	nkawö	nkawö	ADP	PP	_	_	_	_	AlignBegin=222494|AlignEnd=223046|GE=encima|Gloss=encima|MSeg=nkawö|nWord=3|RX=[PP]|wordform=nkawö",
+6	"	_	PUNCT	_	_	_	_	_	_
+7	,	_	PUNCT	_	_	_	_	_	_
+8	ke	ke	_	PTC	_	_	_	_	AlignBegin=223046|AlignEnd=223598|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]
+9	tü	tü	_	PTC	_	_	_	_	AlignBegin=223598|AlignEnd=224150|GE=[INTENS]|Gloss=INTENS|MSeg=tü|nWord=5|RX=[PTC]|wordform=tü,
+10	,	_	PUNCT	_	_	_	_	_	_
+11	tüuwadü	wüwa	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=224150|AlignEnd=224702|GE=[3].[REFL- cesta].[wüwa -POSS]|Gloss=3.REFL- cesta.wüwa -POSS|MSeg=t- wüwa -dü|nWord=6|RX=[PERS- N -SUF].[N]
+12	kunummichai	unmicha	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=224702|AlignEnd=225251|GE=[3/3].[DIS- soltar -PAS]|Gloss=3/3.DIS- soltar -PAS|MSeg=kün- unmicha -i|nWord=7|RX=[PERS- V].[T -TNS]|wordform=kunummichai.
+13	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_049-049
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 225537, 226382
+# morphemic_text = akudi yööje
+# text = ¿Akudi yööje?
+# text_en =  ¿Es la picure [decía] así?
+# text_es =  ¿Es la picure [decía] así?
+# text_iu =  [¿Akudi yööje?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=225537|AlignEnd=225959|GE=picure|Gloss=picure|MSeg=akudi|nWord=1|RX=[N]|wordform=¿Akudi
+3	yööje	yööje	_	AD	_	_	_	_	AlignBegin=225959|AlignEnd=226382|GE=así|Gloss=así|MSeg=yööje|nWord=2|RX=[AD]|wordform=yööje?
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_050-050
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 226382, 227097
+# morphemic_text = akudi yööje
+# text = Akudi yööje.
+# text_en =  La picure [decía] así.
+# text_es =  La picure [decía] así.
+# text_iu =  [Akudi yööje.]
+1	Akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=226382|AlignEnd=226740|GE=picure|Gloss=picure|MSeg=akudi|nWord=1|RX=[N]
+2	yööje	yööje	_	AD	_	_	_	_	AlignBegin=226740|AlignEnd=227097|GE=así|Gloss=así|MSeg=yööje|nWord=2|RX=[AD]|wordform=yööje.
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_051-051
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 229853, 237042
+# morphemic_text = yööje t- wüwa -dü Ø- unmicha -jüdü w- ei -taame chö- wadödö kün- ejö -i yaawö i- wokü -dü ya'me i- wokü -dü
+# text = Yööje, tüuwadü ummicha'jüdü weichaame, chööwadödö künejö yawö yooküdü ya'me. Yooküdü.
+# text_en =  De igual modo como la había puesto su cesta.
+# text_es =  De igual modo como la había puesto su cesta.
+# text_iu =  [Yöö- yööj- yööje ummich-,] [tüuwadü ummicha'jüdü weichaame,] [chööwadödö künejö yawö yooküdü ya'me.] (1.8s) [Yooküdü.]
+# text_tg =  ^traj_ejö_Go:Go_Nwadödö ^wo_OVZ ; ^wo_LVY
+# text_nt =  @ düPP @ -jüdü=SUBwithCOP
+# text_qu =  Escuchar que no repite yaawö en vez de decir ya'me. Falta una parte de la traducción.
+1	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=229853|AlignEnd=230572|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]|wordform=Yööje,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	tüuwadü	wüwa	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=230572|AlignEnd=231291|GE=[3].[REFL- cesta].[wüwa -POSS]|Gloss=3.REFL- cesta.wüwa -POSS|MSeg=t- wüwa -dü|nWord=2|RX=[PERS- N -SUF].[N]
+4	ummicha'jüdü	unmicha	VERB	PERS- V.T -NZR	_	_	_	_	AlignBegin=231291|AlignEnd=232010|GE=[3O- soltar -PAS].[POS]|Gloss=3O- soltar -PAS.POS|MSeg=Ø- unmicha -jüdü|nWord=3|RX=[PERS- V].[T -NZR]
+5	weichaame	ei	VERB	PREF.V- V.I.A -SUB	_	_	_	_	AlignBegin=232010|AlignEnd=232729|GE=[INTR- COP -mientras]|Gloss=INTR- COP -mientras|MSeg=w- ei -taame|nWord=4|RX=[PREF].[V- V].[I].[A -SUB]|wordform=weichaame,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	chööwadödö	wadödö	_	PERS- PP	_	_	_	_	AlignBegin=232729|AlignEnd=233448|GE=3- hacia.3|Gloss=3- hacia.3|MSeg=chö- wadödö|nWord=5|RX=[PERS- PP]
+8	künejö	ejö	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=233448|AlignEnd=234167|GE=[3S].[PAS- venir -PRP]|Gloss=3S.PAS- venir -PRP|MSeg=kün- ejö -i|nWord=6|RX=[PERS- V].[I].[A -TNS]
+9	yawö	yaawö	_	PTC	_	_	_	_	AlignBegin=234167|AlignEnd=234886|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=7|RX=[PTC]
+10	yooküdü	wokü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=234886|AlignEnd=235605|GE=[3- bebida -POSS]|Gloss=3- bebida -POSS|MSeg=i- wokü -dü|nWord=8|RX=[PERS- N -SUF].[N]
+11	ya'me	ya'me	ADP	PP	_	_	_	_	AlignBegin=235605|AlignEnd=236324|GE=consigo|Gloss=consigo|MSeg=ya'me|nWord=9|RX=[PP]|wordform=ya'me.
+12	.	_	PUNCT	_	_	_	_	_	_
+13	Yooküdü	wokü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=236324|AlignEnd=237042|GE=[3- bebida -POSS]|Gloss=3- bebida -POSS|MSeg=i- wokü -dü|nWord=10|RX=[PERS- N -SUF].[N]|wordform=Yooküdü.
+14	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_052-052
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 237055, 237965
+# morphemic_text = kün- etanatö -aakö
+# text = ¿Künetanataakö?
+# text_en =  ¿La ofendía?
+# text_es =  ¿La ofendía?
+# text_iu =  [¿Künetanataakö?]
+# text_tg =  ^wo_V
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Künetanataakö	etanatö	VERB	PERS- V.T -TAM	_	_	_	_	AlignBegin=237055|AlignEnd=237965|GE=[3/3].[DIS- ofender -PDI]|Gloss=3/3.DIS- ofender -PDI|MSeg=kün- etanatö -aakö|nWord=1|RX=[PERS- V].[T -TAM]|wordform=¿Künetanataakö?
+3	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_053-053
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 237965, 241670
+# morphemic_text = ee iyö an- enejü -'da i- w- eejö -'jüdü w- ei -jökkö
+# text = Ee, iyö, önnejü'da yeejü'jüdü weijökkö.
+# text_en =  Sí, es por eso que se vino sin traerla (la cesta de su suegra).
+# text_es =  Sí, es por eso que se vino sin traerla (la cesta de su suegra).
+# text_iu =  [Ee,] [iyö,] [ önne'jü'da yejüjüdü weijökkö.]
+# text_tg =  ^cop_doubleaux ^neg_doubleAUX ^pro_cleft? ^traj_ejö_NoPath ^wo_VZZ
+# text_nt =  -jüdü=SUBwithCOP
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=237965|AlignEnd=238706|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=238706|AlignEnd=239447|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=2|RX=[PRO]|wordform=iyö,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	önnejü'da	enejü	VERB	PREF.V- V.T -PTC	_	_	_	_	AlignBegin=239447|AlignEnd=240188|GE=[NEG- traer -NEG]|Gloss=NEG- traer -NEG|MSeg=an- enejü -'da|nWord=3|RX=[PREF].[V- V].[T -PTC]
+6	yeejü'jüdü	eejö	VERB	PERS- PREF.V- V.I.A -NZR	_	_	_	_	AlignBegin=240188|AlignEnd=240929|GE=[3S- INTR- venir -PAS].[NZR]|Gloss=3S- INTR- venir -PAS.NZR|MSeg=i- w- eejö -'jüdü|nWord=4|RX=[PERS- PREF].[V- V].[I].[A -NZR]
+7	weijökkö	ei	VERB	PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=240929|AlignEnd=241670|GE=[INTR- COP -porque]|Gloss=INTR- COP -porque|MSeg=w- ei -jökkö|nWord=5|RX=[PREF].[V- V].[I].[A -SUF].[V]|wordform=weijökkö.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_054-054
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 247052, 248287
+# morphemic_text = edö o- wokü -dü Ø- wanñö'nö -i ke
+# text = " Edö owoküdü wanñö'nöi " ke .
+# text_en =  "Suegra, toma tu bebida".
+# text_es =  "Suegra, toma tu bebida".
+# text_iu =  ["Edö owoküdü wanñö'nöi" ke.]
+# text_tg =  ^pro_pres
+1	"	"	PRON	PRO	_	_	_	_	AlignBegin=247052|AlignEnd=247361|GE=[DEM1in]|Gloss=DEM1in|MSeg=edö|nWord=1|RX=[PRO]
+2	Edö	Edö	PRON	PRO	_	_	_	_	AlignBegin=247052|AlignEnd=247361|GE=[DEM1in]|Gloss=DEM1in|MSeg=edö|nWord=1|RX=[PRO]
+3	owoküdü	wokü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=247361|AlignEnd=247670|GE=[2- bebida -POSS]|Gloss=2- bebida -POSS|MSeg=o- wokü -dü|nWord=2|RX=[PERS- N -SUF].[N]
+4	wanñö'nöi	wanñö'nö	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=247670|AlignEnd=247979|GE=[1- tía -POSS]|Gloss=1- tía -POSS|MSeg=Ø- wanñö'nö -i|nWord=3|RX=[PERS- N -SUF].[N]|wordform=wanñö'nöi"
+5	"	_	PUNCT	_	_	_	_	_	_
+6	ke	ke	_	PTC	_	_	_	_	AlignBegin=247979|AlignEnd=248287|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]|wordform=ke.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_055-055
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 251004, 252200
+# morphemic_text = a- w- entatü' -tojo keene
+# text = " Awentatü'tojo " keene .
+# text_en =  "Para que te enjuague tu boca" es así.
+# text_es =  "Para que te enjuague tu boca" es así.
+# text_iu =  ["Awentatütojo" keene.]
+1	"	"	VERB	PERS- PREF.V- V.I -NLZR	_	_	_	_	AlignBegin=251004|AlignEnd=251602|GE=[2- INTR- enjuagar].[boca -INSTR]|Gloss=2- INTR- enjuagar.boca -INSTR|MSeg=a- w- entatü' -tojo|nWord=1|RX=[PERS- PREF].[V- V].[I -NLZR]|wordform="Awentatü'tojo"
+2	Awentatü'tojo	Awentatü'tojo	VERB	PERS- PREF.V- V.I -NLZR	_	_	_	_	AlignBegin=251004|AlignEnd=251602|GE=[2- INTR- enjuagar].[boca -INSTR]|Gloss=2- INTR- enjuagar.boca -INSTR|MSeg=a- w- entatü' -tojo|nWord=1|RX=[PERS- PREF].[V- V].[I -NLZR]|wordform="Awentatü'tojo"
+3	"	_	PUNCT	_	_	_	_	_	_
+4	keene	keene	_	PTC	_	_	_	_	AlignBegin=251602|AlignEnd=252200|GE=[CONTR]|Gloss=CONTR|MSeg=keene|nWord=2|RX=[PTC]|wordform=keene.
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_056-056
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 253773, 256139
+# morphemic_text = iyö t- w- entatü' -tojo -mma kün- enü -aakö tüwü yaawö
+# text = Iyö tüwentatü'tojomma künen'aakö tüwü yaawö.
+# text_en =  Se estaba tomando eso para enjuagar su boca.
+# text_es =  Se estaba tomando eso para enjuagar su boca.
+# text_iu =  [Iyö tüwentatütojomma künen'aakö tüwü yaawö.]
+# text_tg =  ^pro_art ^wo_OVAY
+1	Iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=253773|AlignEnd=254246|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=1|RX=[PRO]
+2	tüwentatü'tojomma	entatü'	VERB	PERS- PREF.V- V.I -NLZR -PTC	_	_	_	_	AlignBegin=254246|AlignEnd=254719|GE=[3S].[REFL- INTR- enjuagar].[boca -INSTR -EXCL]|Gloss=3S.REFL- INTR- enjuagar.boca -INSTR -EXCL|MSeg=t- w- entatü' -tojo -mma|nWord=2|RX=[PERS- PREF].[V- V].[I -NLZR -PTC]
+3	künen'aakö	enü	VERB	PERS- V.T -TAM	_	_	_	_	AlignBegin=254719|AlignEnd=255192|GE=[3/3].[DIS- tomar -PDI]|Gloss=3/3.DIS- tomar -PDI|MSeg=kün- enü -aakö|nWord=3|RX=[PERS- V].[T -TAM]
+4	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=255192|AlignEnd=255665|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=4|RX=[PRO]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=255665|AlignEnd=256139|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_057-057
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 257179, 260065
+# morphemic_text = ünjü ke kün- ö'dü -aakö a- w- entatü' -tojo mödö yaawö
+# text = " Ünjü " ke künö'düaakö , " awentatü'tojo mödö yaawö " .
+# text_en =  "No" le dijo, "ese es para que te enjuagues la boca".
+# text_es =  "No" le dijo, "ese es para que te enjuagues la boca".
+# text_iu =  ["Ünjü" ke künö'düaakö,] ["awentatütojo mödö yaawö".]
+# text_tg =  ^wo_PredSubY
+1	"	"	_	INTERJ	_	_	_	_	AlignBegin=257179|AlignEnd=257660|GE=no|Gloss=no|MSeg=ünjü|nWord=1|RX=[INTERJ]|wordform="Ünjü"
+2	Ünjü	Ünjü	_	INTERJ	_	_	_	_	AlignBegin=257179|AlignEnd=257660|GE=no|Gloss=no|MSeg=ünjü|nWord=1|RX=[INTERJ]|wordform="Ünjü"
+3	"	_	PUNCT	_	_	_	_	_	_
+4	ke	ke	_	PTC	_	_	_	_	AlignBegin=257660|AlignEnd=258141|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=2|RX=[PTC]
+5	künö'düaakö	ö'dü	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=258141|AlignEnd=258622|GE=[3S].[PAS- decir -PDI]|Gloss=3S.PAS- decir -PDI|MSeg=kün- ö'dü -aakö|nWord=3|RX=[PERS- V].[I].[A -TAM]|wordform=künö'düaakö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	"	"	VERB	PERS- PREF.V- V.I -NLZR	_	_	_	_	AlignBegin=258622|AlignEnd=259103|GE=[2S- INTR- enjuagar].[boca -INSTR]|Gloss=2S- INTR- enjuagar.boca -INSTR|MSeg=a- w- entatü' -tojo|nWord=4|RX=[PERS- PREF].[V- V].[I -NLZR]
+8	awentatü'tojo	awentatü'tojo	VERB	PERS- PREF.V- V.I -NLZR	_	_	_	_	AlignBegin=258622|AlignEnd=259103|GE=[2S- INTR- enjuagar].[boca -INSTR]|Gloss=2S- INTR- enjuagar.boca -INSTR|MSeg=a- w- entatü' -tojo|nWord=4|RX=[PERS- PREF].[V- V].[I -NLZR]
+9	mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=259103|AlignEnd=259584|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=5|RX=[PRO]
+10	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=259584|AlignEnd=260065|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=6|RX=[PTC]|wordform=yaawö".
+11	"	_	PUNCT	_	_	_	_	_	_
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_058-058
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 260897, 262717
+# morphemic_text = edö -:ne iyö o- wokü -dü yaawö eese na =dü -:ne
+# text = " Edööne iyö owoküdü yaawö eese naadüüne " .
+# text_en =  "Esta si es tu bebida, la que está de este lado."
+# text_es =  "Esta si es tu bebida, la que está de este lado."
+# text_iu =  ["Edööne iyö owoküdü yaawö eese naadüüne".]
+# text_tg =  ^rel_Pred ^wo_SubDemPredY
+# text_nt =  ‘[el] que está de_este_lado’
+1	"	"	_	PRO -PTC	_	_	_	_	AlignBegin=260897|AlignEnd=261200|GE=[DEM1in -INTENS]|Gloss=DEM1in -INTENS|MSeg=edö -:ne|nWord=1|RX=[PRO -PTC]
+2	Edööne	Edööne	_	PRO -PTC	_	_	_	_	AlignBegin=260897|AlignEnd=261200|GE=[DEM1in -INTENS]|Gloss=DEM1in -INTENS|MSeg=edö -:ne|nWord=1|RX=[PRO -PTC]
+3	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=261200|AlignEnd=261503|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=2|RX=[PRO]
+4	owoküdü	wokü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=261503|AlignEnd=261806|GE=[2- bebida -POSS]|Gloss=2- bebida -POSS|MSeg=o- wokü -dü|nWord=3|RX=[PERS- N -SUF].[N]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=261806|AlignEnd=262109|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]
+6	eese	eese	_	DEICT	_	_	_	_	AlignBegin=262109|AlignEnd=262412|GE=por.acá|Gloss=por.acá|MSeg=eese|nWord=5|RX=[DEICT]
+7	naadüüne	na	_	COP =PTC -PTC	_	_	_	_	AlignBegin=262412|AlignEnd=262717|GE=[3].[COP =REL -INTENS]|Gloss=3.COP =REL -INTENS|MSeg=na =dü -:ne|nWord=6|RX=[COP =PTC -PTC]|wordform=naadüüne".
+8	"	_	PUNCT	_	_	_	_	_	_
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_059-059
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 264589, 266487
+# morphemic_text = aaa yööje kün- entatü -jötü -i yaawö
+# text = Aaa, yööje künentatüjötüi yaawö.
+# text_en =  Así se enjuagó.
+# text_es =  Así se enjuagó.
+# text_iu =  [Aa, yööje künentatüi xxx yaawö.]
+# text_tg =  ^dtrVerb_entatü ^pas_Dtr_Re
+1	Aaa	aaa	_	INTERJ	_	_	_	_	AlignBegin=264589|AlignEnd=265063|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]|wordform=Aaa,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	yööje	yööje	_	AD	_	_	_	_	AlignBegin=265063|AlignEnd=265537|GE=así|Gloss=así|MSeg=yööje|nWord=2|RX=[AD]
+4	künentatüjötüi	entatü	VERB	PERS- V.I.O -TAM -TAM	_	_	_	_	AlignBegin=265537|AlignEnd=266011|GE=[3S].[DIS- enjuagar].[boca -ITER -PRP]|Gloss=3S.DIS- enjuagar.boca -ITER -PRP|MSeg=kün- entatü -jötü -i|nWord=3|RX=[PERS- V].[I].[O -TAM -TAM]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=266011|AlignEnd=266487|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_060-060
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 267579, 269360
+# morphemic_text = yaawö -:ne iyö i- wokü -dü kün- uttu -i yaawö
+# text = Yawööne iyö yooküdü kuntui yaawö.
+# text_en =  Ahí sí le dió su bebida.
+# text_es =  Ahí sí le dió su bebida.
+# text_iu =  [Yawööne iyö yooküdü kuntui yaawö.]
+# text_tg =  ^pro_art ^wo_XOVY
+1	Yawööne	yaawö	_	PTC -PTC	_	_	_	_	AlignBegin=267579|AlignEnd=267935|GE=[entonces -INTENS]|Gloss=entonces -INTENS|MSeg=yaawö -:ne|nWord=1|RX=[PTC -PTC]
+2	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=267935|AlignEnd=268291|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=2|RX=[PRO]
+3	yooküdü	wokü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=268291|AlignEnd=268647|GE=[3- bebida -POSS]|Gloss=3- bebida -POSS|MSeg=i- wokü -dü|nWord=3|RX=[PERS- N -SUF].[N]
+4	kuntui	uttu	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=268647|AlignEnd=269003|GE=[3/3].[DIS- dar -PRP]|Gloss=3/3.DIS- dar -PRP|MSeg=kün- uttu -i|nWord=4|RX=[PERS- V].[T -TNS]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=269003|AlignEnd=269360|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_061-061
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 273273, 274001
+# morphemic_text = ta'kwitiye -ato
+# text = ¿Ta'kwitiyaato?
+# text_en =  ¿Dulce?
+# text_es =  ¿Dulce?
+# text_iu =  ¿Ta'kwitiyaato?
+# text_tg =  ^adv_PRED_Ad-ato
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Ta'kwitiyaato	ta'kwitiye	_	AD -SUF.AD	_	_	_	_	AlignBegin=273273|AlignEnd=274001|GE=[dulce -NZR]|Gloss=dulce -NZR|MSeg=ta'kwitiye -ato|nWord=1|RX=[AD -SUF].[AD]|wordform=¿Ta'kwitiyaato?
+3	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_062-062
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 274053, 279045
+# morphemic_text = ta'kwitiye -ato yaawö tüdo'kwe ke tüdo'kwe =mmaja ta'kwitiye =mmaja
+# text = Ta'kwitiyaato yaawö. Tüdo'kwe ke. Tüdo'kwemmaja, ta'kwitiyemmaja.
+# text_en =  Dulce. Emborrachaba. También emborrachaba y también era dulce.
+# text_es =  Dulce. Emborrachaba. También emborrachaba y también era dulce.
+# text_iu =  [Ta'kwitiyaato yaawö.] [Tüdo'kwe ke.] [Tüdo'kwemmaja, ta'kwitiyemmaja.]
+# text_tg =  ^adv_PRED_Ad-ato ^wo_PredY
+1	Ta'kwitiyaato	ta'kwitiye	_	AD -SUF.AD	_	_	_	_	AlignBegin=274053|AlignEnd=274885|GE=[dulce -NZR]|Gloss=dulce -NZR|MSeg=ta'kwitiye -ato|nWord=1|RX=[AD -SUF].[AD]
+2	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=274885|AlignEnd=275717|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=2|RX=[PTC]|wordform=yaawö.
+3	.	_	PUNCT	_	_	_	_	_	_
+4	Tüdo'kwe	tüdo'kwe	_	AD	_	_	_	_	AlignBegin=275717|AlignEnd=276549|GE=alcoholizado|Gloss=alcoholizado|MSeg=tüdo'kwe|nWord=3|RX=[AD]
+5	ke	ke	_	PTC	_	_	_	_	AlignBegin=276549|AlignEnd=277381|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]|wordform=ke.
+6	.	_	PUNCT	_	_	_	_	_	_
+7	Tüdo'kwemmaja	tüdo'kwe	_	AD PTC	_	_	_	_	AlignBegin=277381|AlignEnd=278213|GE=alcoholizado =y|Gloss=alcoholizado =y|MSeg=tüdo'kwe =mmaja|nWord=5|RX=[AD PTC]|wordform=Tüdo'kwemmaja,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ta'kwitiyemmaja	ta'kwitiye	_	AD PTC	_	_	_	_	AlignBegin=278213|AlignEnd=279045|GE=dulce =también|Gloss=dulce =también|MSeg=ta'kwitiye =mmaja|nWord=6|RX=[AD PTC]|wordform=ta'kwitiyemmaja.
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_063-063
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 280878, 282542
+# morphemic_text = yööje kün- enü -i
+# text = Yööje, künenüi.
+# text_en =  Así, se la tomó.
+# text_es =  Así, se la tomó.
+# text_iu =  [Yööje,] [küneenüi.]
+# text_tg =  ^wo_V
+1	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=280878|AlignEnd=281710|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]|wordform=Yööje,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	künenüi	enü	VERB	PERS- V.T -TNS	_	_	_	_	AlignBegin=281710|AlignEnd=282542|GE=[3/3].[DIS- tomar -PAS]|Gloss=3/3.DIS- tomar -PAS|MSeg=kün- enü -i|nWord=2|RX=[PERS- V].[T -TNS]|wordform=künenüi.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_064-064
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 286299, 290953
+# morphemic_text = yööje tüwü t- kiyede -dü an- ükü -'da kün- o'doku -i ke
+# text = Yööje, tüwü, tü'yeedü önkü'da künö'dakui, ke.
+# text_en =  Así, ella, se emborrachó sin rayar su yuca.
+# text_es =  Así, ella, se emborrachó sin rayar su yuca.
+# text_iu =  [Yööje,] [tüwü,] [tü'yeedü onkü'da künö'dakui, ke.]
+# text_tg =  ^2ndP_adverbiale.negative ^wo_OV ; ^wo_V
+1	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=286299|AlignEnd=287075|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]|wordform=Yööje,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=287075|AlignEnd=287851|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=2|RX=[PRO]|wordform=tüwü,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	tü'yeedü	kiyede	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=287851|AlignEnd=288627|GE=[3].[REFL- yuca -POSS]|Gloss=3.REFL- yuca -POSS|MSeg=t- kiyede -dü|nWord=3|RX=[PERS- N -SUF].[N]
+6	önkü'da	ükü	VERB	PREF.V- V.T -PTC	_	_	_	_	AlignBegin=288627|AlignEnd=289403|GE=[NEG- rayar].[yuca -NEG]|Gloss=NEG- rayar.yuca -NEG|MSeg=an- ükü -'da|nWord=4|RX=[PREF].[V- V].[T -PTC]
+7	künö'dakui	o'doku	VERB	PERS- V.I.? -TNS	_	_	_	_	AlignBegin=289403|AlignEnd=290179|GE=[3S].[PAS- emborracharse -PRP]|Gloss=3S.PAS- emborracharse -PRP|MSeg=kün- o'doku -i|nWord=5|RX=[PERS- V].[I].[? -TNS]|wordform=künö'dakui,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	ke	ke	_	PTC	_	_	_	_	AlignBegin=290179|AlignEnd=290953|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=6|RX=[PTC]|wordform=ke.
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_065-065
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 291993, 292799
+# morphemic_text = akudi w- o'doku -dü
+# text = ¿Akudi wö'dakudu?
+# text_en =  ¿La picure se emborrachó?
+# text_es =  ¿La picure se emborrachó?
+# text_iu =  [¿Akudi wo'dakudu?]
+# text_tg =  ^tp_perfectS mirative ipfv ^wo_UVi
+# text_nt =  N w-V-dü, main clause, narrative past
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=291993|AlignEnd=292396|GE=picure|Gloss=picure|MSeg=akudi|nWord=1|RX=[N]|wordform=¿Akudi
+3	wö'dakudu	o'doku	VERB	PREF.V- V.I.? -SUF.V	_	_	_	_	AlignBegin=292396|AlignEnd=292799|GE=[INTR- emborracharse -NZR]|Gloss=INTR- emborracharse -NZR|MSeg=w- o'doku -dü|nWord=2|RX=[PREF].[V- V].[I].[? -SUF].[V]|wordform=wö'dakudu?
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_066-066
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 292812, 294034
+# morphemic_text = akudi w- o'doku -dü yaawö
+# text = Akudi wö'dökudu yaawö.
+# text_en =  La picure se emborrachó.
+# text_es =  La picure se emborrachó.
+# text_iu =  [Akudi wö'dökudu yaawö.]
+# text_tg =  ^tp_perfectS mirative ipfv ^wo_UVY
+# text_nt =  N w-V-dü, main clause, narrative past
+1	Akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=292812|AlignEnd=293219|GE=picure|Gloss=picure|MSeg=akudi|nWord=1|RX=[N]
+2	wö'dökudu	o'doku	VERB	PREF.V- V.I.? -SUF.V	_	_	_	_	AlignBegin=293219|AlignEnd=293626|GE=[INTR- emborracharse -NZR]|Gloss=INTR- emborracharse -NZR|MSeg=w- o'doku -dü|nWord=2|RX=[PREF].[V- V].[I].[? -SUF].[V]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=293626|AlignEnd=294034|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yaawö.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_067-067
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 294827, 295646
+# morphemic_text = kiyede t- ükü -e -'da
+# text = ¿Kiyede tüküe'da?
+# text_en =  ¿Sin la yuca ser rayada? \ft_en (the agouti got drunk) without grating the manioc.
+# text_es =  ¿Sin la yuca ser rayada? \ft_en (the agouti got drunk) without grating the manioc
+# text_iu =  [¿Kiyede tüküe'da?]
+# text_tg =  ^pas_ptcp_event ptcp_mod ^ve_Oconverbcorefsa_veVerb:ükü_veTAM:circumstance ^wo_OV
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Kiyede	kiyede	NOUN	N	_	_	_	_	AlignBegin=294827|AlignEnd=295237|GE=yuca|Gloss=yuca|MSeg=kiyede|nWord=1|RX=[N]|wordform=¿Kiyede
+3	tüküe'da	ükü	VERB	AZR- V.T -SUF.V -PTC	_	_	_	_	AlignBegin=295237|AlignEnd=295646|GE=[AZR- rayar].[yuca -PTCPe -NEG]|Gloss=AZR- rayar.yuca -PTCPe -NEG|MSeg=t- ükü -e -'da|nWord=2|RX=[AZR- V].[T -SUF].[V -PTC]|wordform=tüküe'da?
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_068-068
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 296413, 297180
+# morphemic_text = a'ke
+# text = A'ke...
+# text_en =  Nada...
+# text_es =  Nada...
+# text_iu =  [A'ke...]
+1	A'ke…	a'ke	_	AD	_	_	_	_	AlignBegin=296413|AlignEnd=297180|GE=nada|Gloss=nada|MSeg=a'ke|nWord=1|RX=[AD]|wordform=A'ke...
+
+# sent_id = CtoAbjPic_069-069
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 301795, 303290
+# morphemic_text = ***- yootonno yaawö tüwü
+# text = Iy- yootonno yaawö, tüwü...
+# text_en =  Después, ella...
+# text_es =  Después, ella...
+# text_iu =  [Iy- yootonno yaawö,] [tüwü...]
+1	Iy-		_	***	_	_	_	_	AlignBegin=301795|AlignEnd=302169|GE=[***]|Gloss=***-|MSeg=***-|nWord=1|RX=[***]
+2	yootonno	yootonno	_	AD	_	_	_	_	AlignBegin=302169|AlignEnd=302543|GE=después|Gloss=después|MSeg=yootonno|nWord=2|RX=[AD]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=302543|AlignEnd=302917|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yaawö,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	tüwü…	tüwü	PRON	PRO	_	_	_	_	AlignBegin=302917|AlignEnd=303290|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=4|RX=[PRO]|wordform=tüwü...
+
+# sent_id = CtoAbjPic_070-071
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 306982, 316056
+# morphemic_text = yööje kün- ö'dü -aakö ñöödö t- inño -Ø uwö yaawö eh ewü ewü ewü dö'ja -:ne w- tö(mö) -a eduwa ke kün- ö'dü -aakö
+# text = yööje künö'düaakö ñöödö tinñouwö yaawö: Eh… " ewü-ewü-ewü dö'jaane wütta eduwa " ke künö'düaakö .
+# text_en =  le dijo así a su esposo: "Soy yo quien se va ahora"
+# text_es =  le dijo así a su esposo: "Soy yo quien se va ahora"
+# text_iu =  [Yööje künö'düaakö ñöödö tinñouwö yaawö:] [Eh...] ["ewü-ewü-ewü dö'jaane wütta eduwa"] [ke künö'düaakö.]
+# text_tg =  ^pro_S/art ^wo_MVSDY ^traj_ütömö_noPath ^wo_UVT
+1	yööje	yööje	_	AD	_	_	_	_	AlignBegin=306982|AlignEnd=307354|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]
+2	künö'düaakö	ö'dü	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=307354|AlignEnd=307726|GE=[3].[DIS- decir -PDI]|Gloss=3.DIS- decir -PDI|MSeg=kün- ö'dü -aakö|nWord=2|RX=[PERS- V].[I].[A -TAM]
+3	ñöödö	ñöödö	PRON	PRO	_	_	_	_	AlignBegin=307726|AlignEnd=308098|GE=[AN:INV]|Gloss=AN:INV|MSeg=ñöödö|nWord=3|RX=[PRO]
+4	tinñouwö	inño	_	PERS- N -SUF.N CASE	_	_	_	_	AlignBegin=308098|AlignEnd=308470|GE=[3].[REFL- esposo -POSS DAT]|Gloss=3.REFL- esposo -POSS DAT|MSeg=t- inño -Ø uwö|nWord=4|RX=[PERS- N -SUF].[N CASE]
+5	yaawö:	yaawö	_	PTC	_	_	_	_	AlignBegin=308470|AlignEnd=308841|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]
+6	Eh…	eh	_	INTERJ	_	_	_	_	AlignBegin=312052|AlignEnd=312624|GE=epa|Gloss=epa|MSeg=eh|nWord=6|RX=[INTERJ]|wordform=Eh...
+7	"	"	_	PRO PRO PRO	_	_	_	_	AlignBegin=312624|AlignEnd=313196|GE=[1SG 1SG 1SG]|Gloss=1SG 1SG 1SG|MSeg=ewü ewü ewü|nWord=7|RX=[PRO PRO PRO]
+8	ewü-ewü-ewü	ewü-ewü-ewü	_	PRO PRO PRO	_	_	_	_	AlignBegin=312624|AlignEnd=313196|GE=[1SG 1SG 1SG]|Gloss=1SG 1SG 1SG|MSeg=ewü ewü ewü|nWord=7|RX=[PRO PRO PRO]
+9	dö'jaane	dö'ja	_	PTC -PTC	_	_	_	_	AlignBegin=313196|AlignEnd=313768|GE=[mismo -INTENS]|Gloss=mismo -INTENS|MSeg=dö'ja -:ne|nWord=8|RX=[PTC -PTC]
+10	wütta	tö(mö)	VERB	PERS- V.I.A -SUF.V	_	_	_	_	AlignBegin=313768|AlignEnd=314340|GE=[1S- ir -NPST]|Gloss=1S- ir -NPST|MSeg=w- tö(mö) -a|nWord=9|RX=[PERS- V].[I].[A -SUF].[V]
+11	eduwa	eduwa	_	AD	_	_	_	_	AlignBegin=314340|AlignEnd=314912|GE=ahora|Gloss=ahora|MSeg=eduwa|nWord=10|RX=[AD]|wordform=eduwa"
+12	"	_	PUNCT	_	_	_	_	_	_
+13	ke	ke	_	PTC	_	_	_	_	AlignBegin=314912|AlignEnd=315484|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=11|RX=[PTC]
+14	künö'düaakö	ö'dü	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=315484|AlignEnd=316056|GE=[3S].[PAS- decir -PDI]|Gloss=3S.PAS- decir -PDI|MSeg=kün- ö'dü -aakö|nWord=12|RX=[PERS- V].[I].[A -TAM]|wordform=künö'düaakö.
+15	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_072-072
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 318604, 321620
+# morphemic_text = a- nü -Ø dö'ja -:ne y- euwü -i -de ke kün- ö'dü -aakö t- inño -Ø uwö yaawö
+# text = " Anü dö'jaane yeuwüiche " ke künö'daakö , tinñouwö yaawö .
+# text_en =  "Es tu mamá que me regañó" le dijo a su esposo.
+# text_es =  "Es tu mamá que me regañó" le dijo a su esposo.
+# text_iu =  ["Anü dö'jaane yeuwüiche" ke künö'daakö,] [tinñouwö yaawö.]
+# text_tg =  ^tns_PRP ; ^tns_PDI ^wo_AV
+1	"	"	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=318604|AlignEnd=319035|GE=[2- mamá -POSS]|Gloss=2- mamá -POSS|MSeg=a- nü -Ø|nWord=1|RX=[PERS- N -SUF].[N]
+2	Anü	Anü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=318604|AlignEnd=319035|GE=[2- mamá -POSS]|Gloss=2- mamá -POSS|MSeg=a- nü -Ø|nWord=1|RX=[PERS- N -SUF].[N]
+3	dö'jaane	dö'ja	_	PTC -PTC	_	_	_	_	AlignBegin=319035|AlignEnd=319466|GE=[mismo -INTENS]|Gloss=mismo -INTENS|MSeg=dö'ja -:ne|nWord=2|RX=[PTC -PTC]
+4	yeuwüiche	euwü	VERB	PERS- V.T -TNS -SUF.AD	_	_	_	_	AlignBegin=319466|AlignEnd=319897|GE=[3/1- regañar -PRP -INTENS]|Gloss=3/1- regañar -PRP -INTENS|MSeg=y- euwü -i -de|nWord=3|RX=[PERS- V].[T -TNS -SUF].[AD]|wordform=yeuwüiche"
+5	"	_	PUNCT	_	_	_	_	_	_
+6	ke	ke	_	PTC	_	_	_	_	AlignBegin=319897|AlignEnd=320328|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]
+7	künö'daakö	ö'dü	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=320328|AlignEnd=320759|GE=[3].[DIS- decir -PDI]|Gloss=3.DIS- decir -PDI|MSeg=kün- ö'dü -aakö|nWord=5|RX=[PERS- V].[I].[A -TAM]|wordform=künö'daakö,
+8	,	_	PUNCT	_	_	_	_	_	_
+9	tinñouwö	inño	_	PERS- N -SUF.N CASE	_	_	_	_	AlignBegin=320759|AlignEnd=321190|GE=[3].[REFL- esposo -POSS DAT]|Gloss=3.REFL- esposo -POSS DAT|MSeg=t- inño -Ø uwö|nWord=6|RX=[PERS- N -SUF].[N CASE]
+10	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=321190|AlignEnd=321620|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=7|RX=[PTC]|wordform=yaawö.
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_073-073
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 322777, 323687
+# morphemic_text = waduduku uwö
+# text = ¿Wadudukuuwö?
+# text_en =  ¿A mato de agua?
+# text_es =  ¿A mato de agua?
+# text_iu =  [¿Wadudukuuwö?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Wadudukuuwö	waduduku uwö	NOUN	N CASE	_	_	_	_	AlignBegin=322777|AlignEnd=323687|GE=[mato].[agua DAT]|Gloss=mato.agua DAT|MSeg=waduduku uwö|nWord=1|RX=[N CASE]|wordform=¿Wadudukuuwö?
+3	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_074-074
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 324506, 325832
+# morphemic_text = tüwü Awadudui uwö
+# text = Tüwü... Awaduduiwö.
+# text_en =  Él... a Awadudui.
+# text_es =  Él... a Awadudui.
+# text_iu =  [Tüwü...] [Awaduduiwö.]
+1	Tüwü…	tüwü	PRON	PRO	_	_	_	_	AlignBegin=324506|AlignEnd=325169|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=1|RX=[PRO]|wordform=Tüwü...
+2	Awaduduiwö		PROPN	N.P CASE	_	_	_	_	AlignBegin=325169|AlignEnd=325832|GE=[Awadudui DAT]|Gloss=Awadudui DAT|MSeg=Awadudui uwö|nWord=2|RX=[N].[P CASE]|wordform=Awaduduiwö.
+3	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_075-075
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 325910, 326911
+# morphemic_text = aaa Awadudui keene
+# text = ¡ Aaa ! Awadudui keene .
+# text_en =  ¡Ah! el Awadudui.
+# text_es =  ¡Ah! el Awadudui.
+# text_iu =  [¡Aaa!] [Awadudui keene.]
+1	¡	¡	_	INTERJ	_	_	_	_	AlignBegin=325910|AlignEnd=326244|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]
+2	Aaa	Aaa	_	INTERJ	_	_	_	_	AlignBegin=325910|AlignEnd=326244|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]
+3	!	!	PUNCT	INTERJ	_	_	_	_	AlignBegin=325910|AlignEnd=326244|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]
+4	Awadudui	Awadudui	PROPN	N.P	_	_	_	_	AlignBegin=326244|AlignEnd=326578|GE=[Awadudui]|Gloss=Awadudui|MSeg=Awadudui|nWord=2|RX=[N].[P]
+5	keene	keene	_	PTC	_	_	_	_	AlignBegin=326578|AlignEnd=326911|GE=[CONTR]|Gloss=CONTR|MSeg=keene|nWord=3|RX=[PTC]|wordform=keene.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_076-076
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 331305, 333606
+# morphemic_text = edö i- w- aajöi -ajö kün- a'ja -aakö eetö yamökenaadü jökkö
+# text = Edö yaajöiyaajö küna'jaakö eetö, yamökenaadü jökkö.
+# text_en =  Así la tenía agarrada, por su muñeca.
+# text_es =  Así la tenía agarrada, por su muñeca.
+# text_iu =  [Edö yajöiyaajö küna'jaakö eetö,] [yamökenaadü jökkö.]
+# text_tg =  ^ajo_DTR mainPastPerf_Wcop ^dtrVerb_aajöi _passive ^pas_Dtr_S_A_loc_O_AbsNzr_dtr_Event_öt-ajöi_grab_onto ^vb_aajöi
+# text_nt =  pas_ Por la correferencia la interpretación es S=A en vez de S=O Te voy a agarrar, y la agarró rather than Te voy a agarrar, y fue agarrada
+# text_qu =  Verificar a qué se refiere edö, es como yööje?
+1	Edö	edö	PRON	PRO	_	_	_	_	AlignBegin=331305|AlignEnd=331689|GE=[DEM1in]|Gloss=DEM1in|MSeg=edö|nWord=1|RX=[PRO]
+2	yaajöiyaajö	aajöi	VERB	PERS- PREF.V- V.I.A -NZR	_	_	_	_	AlignBegin=331689|AlignEnd=332073|GE=[3S- INTR- ser].[agarrado -PTCP]|Gloss=3S- INTR- ser.agarrado -PTCP|MSeg=i- w- aajöi -ajö|nWord=2|RX=[PERS- PREF].[V- V].[I].[A -NZR]
+3	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=332073|AlignEnd=332457|GE=[3S].[PAS- COP -PDI]|Gloss=3S.PAS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=3|RX=[PERS- V].[I].[A -TAM]
+4	eetö	eetö	_	DEICT	_	_	_	_	AlignBegin=332457|AlignEnd=332841|GE=aquí|Gloss=aquí|MSeg=eetö|nWord=4|RX=[DEICT]|wordform=eetö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	yamökenaadü	yamökenaadü	NOUN	N	_	_	_	_	AlignBegin=332841|AlignEnd=333225|GE=muñeca|Gloss=muñeca|MSeg=yamökenaadü|nWord=5|RX=[N]
+7	jökkö	jökkö	ADP	PP	_	_	_	_	AlignBegin=333225|AlignEnd=333606|GE=sobre|Gloss=sobre|MSeg=jökkö|nWord=6|RX=[PP]|wordform=jökkö.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_077-077
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 335920, 338403
+# morphemic_text = man- ajöi -a -:ne ke kün- ö'dü -aakö aakene m- tö(mö) -dü de'a -de
+# text = " Manajöiyaane " ke künö'düaakö , " ¿ aakene müttödü denñade ? "
+# text_en =  "Te voy a agarrar" le dijo, "¿cómo vas a irte?"
+# text_es =  "Te voy a agarrar" le dijo, "¿cómo vas a irte?"
+# text_iu =  ["Manajöiyaane" ke künö'düaakö,] ["¿aakene müttödüdenñade?"]
+# text_tg =  ^tp_verify ^traj_ütömö_noPath
+# text_qu =  Verificar que dice müttödü y no 'aakenemma öttödü'
+1	"	"	VERB	PERS- V.T -SUF.V -PTC	_	_	_	_	AlignBegin=335920|AlignEnd=336334|GE=[1/2- agarrar -NPST -INTENS]|Gloss=1/2- agarrar -NPST -INTENS|MSeg=man- ajöi -a -:ne|nWord=1|RX=[PERS- V].[T -SUF].[V -PTC]|wordform="Manajöiyaane"
+2	Manajöiyaane	Manajöiyaane	VERB	PERS- V.T -SUF.V -PTC	_	_	_	_	AlignBegin=335920|AlignEnd=336334|GE=[1/2- agarrar -NPST -INTENS]|Gloss=1/2- agarrar -NPST -INTENS|MSeg=man- ajöi -a -:ne|nWord=1|RX=[PERS- V].[T -SUF].[V -PTC]|wordform="Manajöiyaane"
+3	"	_	PUNCT	_	_	_	_	_	_
+4	ke	ke	_	PTC	_	_	_	_	AlignBegin=336334|AlignEnd=336748|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=2|RX=[PTC]
+5	künö'düaakö	ö'dü	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=336748|AlignEnd=337162|GE=[3S].[PAS- decir -PDI]|Gloss=3S.PAS- decir -PDI|MSeg=kün- ö'dü -aakö|nWord=3|RX=[PERS- V].[I].[A -TAM]|wordform=künö'düaakö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	"	"	_	INTERR	_	_	_	_	AlignBegin=337162|AlignEnd=337576|GE=como|Gloss=como|MSeg=aakene|nWord=4|RX=[INTERR]
+8	¿	¿	_	INTERR	_	_	_	_	AlignBegin=337162|AlignEnd=337576|GE=como|Gloss=como|MSeg=aakene|nWord=4|RX=[INTERR]
+9	aakene	aakene	_	INTERR	_	_	_	_	AlignBegin=337162|AlignEnd=337576|GE=como|Gloss=como|MSeg=aakene|nWord=4|RX=[INTERR]
+10	müttödü	tö(mö)	VERB	PERS- V.I.A -SUF.V	_	_	_	_	AlignBegin=337576|AlignEnd=337990|GE=[2S- ir -NZR]|Gloss=2S- ir -NZR|MSeg=m- tö(mö) -dü|nWord=5|RX=[PERS- V].[I].[A -SUF].[V]
+11	denñade	denñade	_	PTC -SUF.AD	_	_	_	_	AlignBegin=337990|AlignEnd=338403|GE=[queja -INTENS]|Gloss=queja -INTENS|MSeg=de'a -de|nWord=6|RX=[PTC -SUF].[AD]|wordform=denñade?"
+12	?	?	PUNCT	PTC -SUF.AD	_	_	_	_	AlignBegin=337990|AlignEnd=338403|GE=[queja -INTENS]|Gloss=queja -INTENS|MSeg=de'a -de|nWord=6|RX=[PTC -SUF].[AD]|wordform=denñade?"
+13	"	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_078-078
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 341432, 344097
+# morphemic_text = ay- enno'ja -jai -'da wa yaawö ke
+# text = " Ayenno'jajaicha wa yaawö " ke .
+# text_en =  "No te voy a dejar ir"
+# text_es =  "No te voy a dejar ir"
+# text_iu =  ["Ayenno-] [ayenno'jojaicha wa yaawö" ke.]
+# text_qu =  Verificar una mejor traducción para el verbo principal (y si el análisis es correcto) (Dic2013)
+1	"	"	VERB	PERS- V.T -SUF.V -PTC	_	_	_	_	AlignBegin=341432|AlignEnd=342098|GE=[2O- enviar -ABIL -NEG]|Gloss=2O- enviar -ABIL -NEG|MSeg=ay- enno'ja -jai -'da|nWord=1|RX=[PERS- V].[T -SUF].[V -PTC]
+2	Ayenno'jajaicha	Ayenno'jajaicha	VERB	PERS- V.T -SUF.V -PTC	_	_	_	_	AlignBegin=341432|AlignEnd=342098|GE=[2O- enviar -ABIL -NEG]|Gloss=2O- enviar -ABIL -NEG|MSeg=ay- enno'ja -jai -'da|nWord=1|RX=[PERS- V].[T -SUF].[V -PTC]
+3	wa	wa	_	COP	_	_	_	_	AlignBegin=342098|AlignEnd=342764|GE=[1SG].[COP]|Gloss=1SG.COP|MSeg=wa|nWord=2|RX=[COP]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=342764|AlignEnd=343430|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yaawö"
+5	"	_	PUNCT	_	_	_	_	_	_
+6	ke	ke	_	PTC	_	_	_	_	AlignBegin=343430|AlignEnd=344097|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]|wordform=ke.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_079-079
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 345475, 347425
+# morphemic_text = akudi nne -dü ka mö'dö Awadudui
+# text = ¿Akudi nnedü ka mö'dö, Awadudui?
+# text_en =  ¿Ese Awadudui es el hijo de picure?
+# text_es =  ¿Ese Awadudui es el hijo de picure?
+# text_iu =  [¿Akudi nnedü ka mö'dö,] [Awadudui?]
+# text_tg =  ^nvp__nvpFUNC_inclusion ^pro_mö'dö_subj ^syn_mainNVP ^wo_PredBSub
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=345475|AlignEnd=345865|GE=picure|Gloss=picure|MSeg=akudi|nWord=1|RX=[N]|wordform=¿Akudi
+3	nnedü	nne	NOUN	N -SUF.N	_	_	_	_	AlignBegin=345865|AlignEnd=346255|GE=[hijo -POSS]|Gloss=hijo -POSS|MSeg=nne -dü|nWord=2|RX=[N -SUF].[N]
+4	ka	ka	_	INTERR	_	_	_	_	AlignBegin=346255|AlignEnd=346645|GE=[QP]|Gloss=QP|MSeg=ka|nWord=3|RX=[INTERR]
+5	mö'dö	mö'dö	PRON	PRO	_	_	_	_	AlignBegin=346645|AlignEnd=347035|GE=[DEM1an]|Gloss=DEM1an|MSeg=mö'dö|nWord=4|RX=[PRO]|wordform=mö'dö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	Awadudui	Awadudui	PROPN	N.P	_	_	_	_	AlignBegin=347035|AlignEnd=347425|GE=[Awadudui]|Gloss=Awadudui|MSeg=Awadudui|nWord=5|RX=[N].[P]|wordform=Awadudui?
+8	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_080-080
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 347685, 350441
+# morphemic_text = yööje kanna i- nne -dü =je i- nne -dü =je ke chö- ökaa -dü na
+# text = Yööje kanna inñedüje . " Inñedüje " ke chöökaadü na .
+# text_en =  Yo creo, como su hijo. Dicen que es su hijo.
+# text_es =  Yo creo, como su hijo. Dicen que es su hijo.
+# text_iu =  [Yööje kanna inñedüje.] ["Inñedüje" ke chöökaadü na.]
+# text_tg =  ^wo_PredSubCop
+1	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=347685|AlignEnd=348079|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]
+2	kanna	kanna	_	PTC	_	_	_	_	AlignBegin=348079|AlignEnd=348473|GE=posiblemente|Gloss=posiblemente|MSeg=kanna|nWord=2|RX=[PTC]
+3	inñedüje	nne	_	PERS- N -SUF.N AZR	_	_	_	_	AlignBegin=348473|AlignEnd=348867|GE=[3- hijo -POSS =ESS]|Gloss=3- hijo -POSS =ESS|MSeg=i- nne -dü =je|nWord=3|RX=[PERS- N -SUF].[N AZR]|wordform=inñedüje.
+4	.	_	PUNCT	_	_	_	_	_	_
+5	"	"	_	PERS- N -SUF.N AZR	_	_	_	_	AlignBegin=348867|AlignEnd=349261|GE=[3- hijo -POSS =ESS]|Gloss=3- hijo -POSS =ESS|MSeg=i- nne -dü =je|nWord=4|RX=[PERS- N -SUF].[N AZR]|wordform="Inñedüje"
+6	Inñedüje	Inñedüje	_	PERS- N -SUF.N AZR	_	_	_	_	AlignBegin=348867|AlignEnd=349261|GE=[3- hijo -POSS =ESS]|Gloss=3- hijo -POSS =ESS|MSeg=i- nne -dü =je|nWord=4|RX=[PERS- N -SUF].[N AZR]|wordform="Inñedüje"
+7	"	_	PUNCT	_	_	_	_	_	_
+8	ke	ke	_	PTC	_	_	_	_	AlignBegin=349261|AlignEnd=349655|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=5|RX=[PTC]
+9	chöökaadü	ökaa	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=349655|AlignEnd=350049|GE=[3- rumor -POSS]|Gloss=3- rumor -POSS|MSeg=chö- ökaa -dü|nWord=6|RX=[PERS- N -SUF].[N]
+10	na	na	_	COP	_	_	_	_	AlignBegin=350049|AlignEnd=350441|GE=[3].[COP]|Gloss=3.COP|MSeg=na|nWord=7|RX=[COP]|wordform=na.
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_081-081
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 356564, 359112
+# morphemic_text = mödöje mö'dö wanö kün- tö(mö) -i yaawö
+# text = Mödöje mö'dö wanö küntömö yaawö.
+# text_en =  Así se fue la abeja.
+# text_es =  Así se fue la abeja.
+# text_iu =  [Mödöje mö'dö wanö küntömö yaawö.]
+# text_tg =  ^pro_mö'dö_art ^traj_ütömö_noPath ^wo_XUVY
+1	Mödöje	mödöje	_	AD	_	_	_	_	AlignBegin=356564|AlignEnd=357074|GE=así|Gloss=así|MSeg=mödöje|nWord=1|RX=[AD]
+2	mö'dö	mö'dö	PRON	PRO	_	_	_	_	AlignBegin=357074|AlignEnd=357584|GE=[DEM1an]|Gloss=DEM1an|MSeg=mö'dö|nWord=2|RX=[PRO]
+3	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=357584|AlignEnd=358094|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=3|RX=[N]
+4	küntömö	tö(mö)	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=358094|AlignEnd=358604|GE=[3].[DIS- ir -PRP]|Gloss=3.DIS- ir -PRP|MSeg=kün- tö(mö) -i|nWord=4|RX=[PERS- V].[I].[A -TNS]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=358604|AlignEnd=359112|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yaawö.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_082-082
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 360763, 364403
+# morphemic_text = sotto =je t- w- ei -dü kün- atame -i yaawö aakene mödö i- w- ütö(mö) -ajö na =dü yaawö
+# text = Sottooje tüweichü künatamei yaawö, aakene, mödö i'chaajö naadü yaawö.
+# text_en =  Se acabó de ser como persona, pues, lo que ahora es su ida.
+# text_es =  Se acabó de ser como persona, pues, lo que ahora es su ida.
+# text_iu =  [Sottooje tüweichü künatamei yaawö, aakene,] [mödö i'chaajö naadü yaawö.]
+# text_tg =  ^ajo_Sa NresultativeModifier? ^dtrVerb_atame ^pas_Dtr_S_O_NoAgt_AbsNzr_dtr_Event_öt-ame_consumeself ^pro_relativeIntro ^tp_nominalC_U ^vb_ütömö ^wo_UV
+# text_nt =  CoRef: S of independent controls xxx @ relative: ‘(eso [es]) [lo] que es su ida’ @ pas_ AbsNzr-dtr ; agentless middle
+# text_qu =  Conseguir una traducción que permita comprender cual es la función de la segunda parte. Será ‘eso [el ser persona] es lo que que se fue’?
+1	Sottooje	sotto	NOUN	N AZR	_	_	_	_	AlignBegin=360763|AlignEnd=361167|GE=[persona =ESS]|Gloss=persona =ESS|MSeg=sotto =je|nWord=1|RX=[N AZR]
+2	tüweichü	ei	VERB	PERS- PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=361167|AlignEnd=361571|GE=[3S].[REFL- INTR- COP -NZR]|Gloss=3S.REFL- INTR- COP -NZR|MSeg=t- w- ei -dü|nWord=2|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V]
+3	künatamei	atame	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=361571|AlignEnd=361975|GE=[3S].[PAS- acabarse -PRP]|Gloss=3S.PAS- acabarse -PRP|MSeg=kün- atame -i|nWord=3|RX=[PERS- V].[I].[A -TNS]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=361975|AlignEnd=362379|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	aakene	aakene	_	INTERJ	_	_	_	_	AlignBegin=362379|AlignEnd=362783|GE=¡pues!|Gloss=¡pues!|MSeg=aakene|nWord=5|RX=[INTERJ]|wordform=aakene,
+7	,	_	PUNCT	_	_	_	_	_	_
+8	mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=362783|AlignEnd=363187|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=6|RX=[PRO]
+9	i'chaajö	ütö(mö)	VERB	PERS- PREF.V- V.I.A -NZR	_	_	_	_	AlignBegin=363187|AlignEnd=363591|GE=[3S- INTR- ir -PTCP]|Gloss=3S- INTR- ir -PTCP|MSeg=i- w- ütö(mö) -ajö|nWord=7|RX=[PERS- PREF].[V- V].[I].[A -NZR]
+10	naadü	na	_	COP =PTC	_	_	_	_	AlignBegin=363591|AlignEnd=363995|GE=[3].[COP =REL]|Gloss=3.COP =REL|MSeg=na =dü|nWord=8|RX=[COP =PTC]
+11	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=363995|AlignEnd=364403|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=9|RX=[PTC]|wordform=yaawö.
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_083-083
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 364429, 366587
+# morphemic_text = edö ai kün- eja'ka -i yaawö ke edö -'kö ai
+# text = Edöai küneja'kai yaawö ke, edö'kai.
+# text_en =  Salió por aquí, por aquisito.
+# text_es =  Salió por aquí, por aquisito.
+# text_iu =  [Edöai küneja'kai yaawö ke,] [edö'kai.]
+# text_tg =  ^dtrVerb_eja'ka ^pas_Dtr_Re_öt-ja'ka_goout ^traj_eja'ka_Me:Me_Nai ^wo_LVY
+1	Edöai	edö ai	_	PRO PP	_	_	_	_	AlignBegin=364429|AlignEnd=364861|GE=[DEM1in por]|Gloss=DEM1in por|MSeg=edö ai|nWord=1|RX=[PRO PP]
+2	küneja'kai	eja'ka	VERB	PERS- V.I.O -TNS	_	_	_	_	AlignBegin=364861|AlignEnd=365293|GE=[3S].[PAS- salir -PRP]|Gloss=3S.PAS- salir -PRP|MSeg=kün- eja'ka -i|nWord=2|RX=[PERS- V].[I].[O -TNS]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=365293|AlignEnd=365725|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]
+4	ke	ke	_	PTC	_	_	_	_	AlignBegin=365725|AlignEnd=366157|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=4|RX=[PTC]|wordform=ke,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	edö'kai	edö	_	PRO -SUF.N PP	_	_	_	_	AlignBegin=366157|AlignEnd=366587|GE=[DEM1in -DIM por]|Gloss=DEM1in -DIM por|MSeg=edö -'kö ai|nWord=5|RX=[PRO -SUF].[N PP]|wordform=edö'kai.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_084-084
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 366873, 367679
+# morphemic_text = yamökö'ta joi
+# text = ¿Yamökö'ta joi?
+# text_en =  ¿Por la palma de la mano de él?
+# text_es =  ¿Por la palma de la mano de él?
+# text_iu =  [¿Yamökö'tajai?]
+# text_nt =  @ düPP: Nodü
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Yamökö'ta	yamökö'ta	NOUN	N	_	_	_	_	AlignBegin=366873|AlignEnd=367276|GE=palma|Gloss=palma|MSeg=yamökö'ta|nWord=1|RX=[N]|wordform=¿Yamökö'ta
+3	joi	joi	ADP	PP	_	_	_	_	AlignBegin=367276|AlignEnd=367679|GE=a.través|Gloss=a.través|MSeg=joi|nWord=2|RX=[PP]|wordform=joi?
+4	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_085-085
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 367796, 368537
+# morphemic_text = mmm
+# text = Mmm.
+# text_en =  sí.
+# text_es =  sí.
+# text_iu =  [Mmm.]
+1	Mmm	mmm	_	INTERJ	_	_	_	_	AlignBegin=367796|AlignEnd=368537|GE=mmm|Gloss=mmm|MSeg=mmm|nWord=1|RX=[INTERJ]|wordform=Mmm.
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_086-086
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 369733, 372697
+# morphemic_text = man- ajöi -a dö'ja -:ne -de ke y- amö -dü jökkö i- w- aajöi -ajö kün- a'ja -aakö
+# text = " Manajöiya dö'jaanede " ke , yamödü jökkö yaajöiyaajö küna'jaakö .
+# text_en =  "Te voy a agarrar", la había agarrado en su mano.
+# text_es =  "Te voy a agarrar", la había agarrado en su mano.
+# text_iu =  ["Manajöiyadö'janede" ke,] [yamökü- yamödü jökkö yajöiyaajö küna'jaakö.]
+# text_tg =  ^ajo_DTR mainPastPerf_Wcop ^dtrVerb_aajöi _passive ^pas_Dtr_S_A_loc_O_AbsNzr_dtr_Event_öt-ajöi_grab_onto ^vb_aajöi ; ^vb_TR_ajöi ^wo_XVZ
+# text_nt =  DTR @ düPP @ pas_ Por la correferencia la interpretación es S=A en vez de S=O Te voy a agarrar, y la agarró rather than Te voy a agarrar, y fue agarrada
+1	"	"	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=369733|AlignEnd=370156|GE=[1/2- agarrar -NPST]|Gloss=1/2- agarrar -NPST|MSeg=man- ajöi -a|nWord=1|RX=[PERS- V].[T -SUF].[V]
+2	Manajöiya	Manajöiya	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=369733|AlignEnd=370156|GE=[1/2- agarrar -NPST]|Gloss=1/2- agarrar -NPST|MSeg=man- ajöi -a|nWord=1|RX=[PERS- V].[T -SUF].[V]
+3	dö'jaanede	dö'ja	_	PTC -PTC -SUF.AD	_	_	_	_	AlignBegin=370156|AlignEnd=370579|GE=[mismo -INTENS -INTENS]|Gloss=mismo -INTENS -INTENS|MSeg=dö'ja -:ne -de|nWord=2|RX=[PTC -PTC -SUF].[AD]|wordform=dö'jaanede"
+4	"	_	PUNCT	_	_	_	_	_	_
+5	ke	ke	_	PTC	_	_	_	_	AlignBegin=370579|AlignEnd=371002|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=3|RX=[PTC]|wordform=ke,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	yamödü	amö	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=371002|AlignEnd=371425|GE=[3- mano -POSS]|Gloss=3- mano -POSS|MSeg=y- amö -dü|nWord=4|RX=[PERS- N -SUF].[N]
+8	jökkö	jökkö	ADP	PP	_	_	_	_	AlignBegin=371425|AlignEnd=371848|GE=en|Gloss=en|MSeg=jökkö|nWord=5|RX=[PP]
+9	yaajöiyaajö	aajöi	VERB	PERS- PREF.V- V.I.A -NZR	_	_	_	_	AlignBegin=371848|AlignEnd=372271|GE=[3S- INTR- ser].[agarrado -PTCP]|Gloss=3S- INTR- ser.agarrado -PTCP|MSeg=i- w- aajöi -ajö|nWord=6|RX=[PERS- PREF].[V- V].[I].[A -NZR]
+10	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=372271|AlignEnd=372697|GE=[3S].[PAS- COP -PDI]|Gloss=3S.PAS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=7|RX=[PERS- V].[I].[A -TAM]|wordform=küna'jaakö.
+11	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_087-087
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 374205, 377299
+# morphemic_text = mödöje -mma kün- ö'dü -i yaawö tüwü sotto =je i- w- ei -dü kün- atame -i yaawö
+# text = Mödöjemma künö'düi yaawö tüwü, sottooje yeichü künatamei yaawö.
+# text_en =  Así mismo se hizo ella, de ser como gente se acabó.
+# text_es =  Así mismo se hizo ella, de ser como gente se acabó.
+# text_iu =  [Mödöjemma künö'düi yaawö tüwü,] [sottooje yeichü künatamei yaawö.]
+# text_tg =  ^dtrVerb_ö'dü _reflex ; ^dtrVerb_atame ^pas_Dtr_ ^tp_nominalC_U ^wo_XVYU; ^wo_UVY
+# text_nt =  CoRef: Compare with CtoAbjPic.079
+1	Mödöjemma	mödöje	_	AD -PTC	_	_	_	_	AlignBegin=374205|AlignEnd=374592|GE=[así -EXCL]|Gloss=así -EXCL|MSeg=mödöje -mma|nWord=1|RX=[AD -PTC]
+2	künö'düi	ö'dü	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=374592|AlignEnd=374979|GE=[3S].[PAS- ponerse -PRP]|Gloss=3S.PAS- ponerse -PRP|MSeg=kün- ö'dü -i|nWord=2|RX=[PERS- V].[I].[A -TNS]
+3	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=374979|AlignEnd=375366|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]
+4	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=375366|AlignEnd=375753|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=4|RX=[PRO]|wordform=tüwü,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	sottooje	sotto	NOUN	N AZR	_	_	_	_	AlignBegin=375753|AlignEnd=376140|GE=[persona =ESS]|Gloss=persona =ESS|MSeg=sotto =je|nWord=5|RX=[N AZR]
+7	yeichü	ei	VERB	PERS- PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=376140|AlignEnd=376527|GE=[3S- INTR- COP -NZR]|Gloss=3S- INTR- COP -NZR|MSeg=i- w- ei -dü|nWord=6|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V]
+8	künatamei	atame	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=376527|AlignEnd=376914|GE=[3S].[PAS- acabarse -PRP]|Gloss=3S.PAS- acabarse -PRP|MSeg=kün- atame -i|nWord=7|RX=[PERS- V].[I].[A -TNS]
+9	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=376914|AlignEnd=377299|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=8|RX=[PTC]|wordform=yaawö.
+10	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_088-088
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 377299, 379340
+# morphemic_text = mödö ai -mma kün- eja'ka -i yaawö eetökö xxx
+# text = Mödö aimma küneja'kai yaawö eetökö, xxx.
+# text_en =  Se le salió por allí, por aquí.
+# text_es =  Se le salió por allí, por aquí.
+# text_iu =  [Mödö aimma küneja'kai yaawö eetökkö,] [xxx.]
+# text_tg =  ^dtrVerb_eja'ka ^pas_Dtr_Re_öt-ja'ka_goout ^traj_eja'ka_Me1Me2:Me1_Nai:Me2_eetö-kö ^wo_LVY
+# text_qu =  Escuchar: parece que terminara con edöakka en vez de eetökkö
+1	Mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=377299|AlignEnd=377639|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=1|RX=[PRO]
+2	aimma	ai	_	PP -PTC	_	_	_	_	AlignBegin=377639|AlignEnd=377979|GE=[por -EXCL]|Gloss=por -EXCL|MSeg=ai -mma|nWord=2|RX=[PP -PTC]
+3	küneja'kai	eja'ka	VERB	PERS- V.I.O -TNS	_	_	_	_	AlignBegin=377979|AlignEnd=378319|GE=[3S].[PAS- salir -PRP]|Gloss=3S.PAS- salir -PRP|MSeg=kün- eja'ka -i|nWord=3|RX=[PERS- V].[I].[O -TNS]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=378319|AlignEnd=378659|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]
+5	eetökö	eetökö	_	AD	_	_	_	_	AlignBegin=378659|AlignEnd=378999|GE=[aquí].[PERL]|Gloss=aquí.PERL|MSeg=eetökö|nWord=5|RX=[AD]|wordform=eetökö,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	xxx	xxx	_	XXX	_	_	_	_	AlignBegin=378999|AlignEnd=379340|GE=xxx|Gloss=xxx|MSeg=xxx|nWord=6|RX=[XXX]|wordform=xxx.
+8	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_089-089
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 379650, 380880
+# morphemic_text = diii ke =ja
+# text = ¿ " Diii " ke ja ?
+# text_en =  ¿"Turururu" así? (sonido de la abeja).
+# text_es =  ¿"Turururu" así? (sonido de la abeja)
+# text_iu =  [¿"Diii " ke ja?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	"	"	_	IDEO	_	_	_	_	AlignBegin=379650|AlignEnd=380060|GE=bzzz|Gloss=bzzz|MSeg=diii|nWord=1|RX=[IDEO]|wordform=¿"Diii"
+3	Diii	Diii	_	IDEO	_	_	_	_	AlignBegin=379650|AlignEnd=380060|GE=bzzz|Gloss=bzzz|MSeg=diii|nWord=1|RX=[IDEO]|wordform=¿"Diii"
+4	"	_	PUNCT	_	_	_	_	_	_
+5	ke	ke	_	PTC	_	_	_	_	AlignBegin=380060|AlignEnd=380470|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=2|RX=[PTC]
+6	ja		_	PTC	_	_	_	_	AlignBegin=380470|AlignEnd=380880|GE=[CONFIRM]|Gloss==CONFIRM|MSeg==ja|nWord=3|RX=[PTC]|wordform=ja?
+7	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_090-090
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 381150, 383970
+# morphemic_text = a'ke t- üdü -tojo -'je -'da kün- a'ja -aakö
+# text = A'ke... Tüdütojo'je'da küna'jaakö.
+# text_en =  Nada... No había nada que hacer.
+# text_es =  Nada... No había nada que hacer.
+# text_iu =  [A'ke...] [Tüdütojoj'e'da küna'jaakö.]
+# text_tg =  ^wo_VZ
+1	A'ke…	a'ke	_	AD	_	_	_	_	AlignBegin=381150|AlignEnd=382090|GE=nada|Gloss=nada|MSeg=a'ke|nWord=1|RX=[AD]|wordform=A'ke...
+2	Tüdütojo'je'da	üdü	VERB	PERS- V.T -NLZR -PP -PTC	_	_	_	_	AlignBegin=382090|AlignEnd=383030|GE=[3O- hacer -INSTR -con -NEG]|Gloss=3O- hacer -INSTR -con -NEG|MSeg=t- üdü -tojo -'je -'da|nWord=2|RX=[PERS- V].[T -NLZR -PP -PTC]
+3	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=383030|AlignEnd=383970|GE=[3S].[PAS- COP -PDI]|Gloss=3S.PAS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=3|RX=[PERS- V].[I].[A -TAM]|wordform=küna'jaakö.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_091-091
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 383990, 385050
+# morphemic_text = wodi mö'dö wanö yaawö
+# text = ¿Wodi mö'dö wanö yaawö?
+# text_en =  ¿La abeja es una mujer?
+# text_es =  ¿La abeja es una mujer?
+# text_iu =  [¿Wodi mö'dö wanö yaawö?]
+# text_tg =  ^adv_INCLUSIONn_wodi_serhumanomujer ^pro_mö'dö_art2cop ^wo_PredDemSubY
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Wodi	wodi	NOUN	N	_	_	_	_	AlignBegin=383990|AlignEnd=384255|GE=mujer|Gloss=mujer|MSeg=wodi|nWord=1|RX=[N]|wordform=¿Wodi
+3	mö'dö	mö'dö	PRON	PRO	_	_	_	_	AlignBegin=384255|AlignEnd=384520|GE=[DEM1an]|Gloss=DEM1an|MSeg=mö'dö|nWord=2|RX=[PRO]
+4	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=384520|AlignEnd=384785|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=3|RX=[N]
+5	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=384785|AlignEnd=385050|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö?
+6	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_092-092
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 385280, 386280
+# morphemic_text = wodi mö'dö wanö
+# text = Wodi mö'dö wanö.
+# text_en =  La abeja es una mujer.
+# text_es =  La abeja es una mujer.
+# text_iu =  [Wodi mö'dö wanö.]
+# text_tg =  ^adv_PREDN_wodi_hembra ^nvp_NDemN_nvpFUNC_inclusion ^pro_mö'dö_art2cop ^wo_PredDemSub
+1	Wodi	wodi	NOUN	N	_	_	_	_	AlignBegin=385280|AlignEnd=385613|GE=mujer|Gloss=mujer|MSeg=wodi|nWord=1|RX=[N]
+2	mö'dö	mö'dö	PRON	PRO	_	_	_	_	AlignBegin=385613|AlignEnd=385946|GE=[DEM1an]|Gloss=DEM1an|MSeg=mö'dö|nWord=2|RX=[PRO]
+3	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=385946|AlignEnd=386280|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=3|RX=[N]|wordform=wanö.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_093-093
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 386290, 387610
+# morphemic_text = yööje i- w- ei -jökkö kaado iyö i- wokü -dü na -i
+# text = ¿Yööje yeijökkö kaado iyö yooküdü nai?
+# text_en =  ¿Es por eso que su bebida (miel) es rica?
+# text_es =  ¿Es por eso que su bebida (miel) es rica?
+# text_iu =  [¿Yööje yeijökkö kaado iyö yooküdü nai?]
+# text_tg =  ^pro_art ^2ndPred_adverbiale.de.cause ^wo_PredSubCop
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Yööje	yööje	_	AD	_	_	_	_	AlignBegin=386290|AlignEnd=386510|GE=así|Gloss=así|MSeg=yööje|nWord=1|RX=[AD]|wordform=¿Yööje
+3	yeijökkö	ei	VERB	PERS- PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=386510|AlignEnd=386730|GE=[3S- INTR- COP -porque]|Gloss=3S- INTR- COP -porque|MSeg=i- w- ei -jökkö|nWord=2|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V]
+4	kaado	kaado	_	AD	_	_	_	_	AlignBegin=386730|AlignEnd=386950|GE=rico|Gloss=rico|MSeg=kaado|nWord=3|RX=[AD]
+5	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=386950|AlignEnd=387170|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=4|RX=[PRO]
+6	yooküdü	wokü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=387170|AlignEnd=387390|GE=[3- bebida -POSS]|Gloss=3- bebida -POSS|MSeg=i- wokü -dü|nWord=5|RX=[PERS- N -SUF].[N]
+7	nai	na	_	COP -MODO	_	_	_	_	AlignBegin=387390|AlignEnd=387610|GE=[3].[COP -INTER]|Gloss=3.COP -INTER|MSeg=na -i|nWord=6|RX=[COP -MODO]|wordform=nai?
+8	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_094-094
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 387764, 388557
+# morphemic_text = ee
+# text = Ee.
+# text_en =  Sí.
+# text_es =  Sí.
+# text_iu =  [Ee.]
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=387764|AlignEnd=388557|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee.
+2	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_095-095
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 391794, 395057
+# morphemic_text = tüw- ei -e i- w- ei -taame yanwaa ajo'jo -nño ajo'jo seweiche aneija yanwaa
+# text = Tüweiye yeichaame yanwa, ajo'jonño. Ajo'jo seweiche aneija, yanwa.
+# text_en =  También hay macho grande. Otro es rojo, macho.
+# text_es =  También hay macho grande. Otro es rojo, macho.
+# text_iu =  [Tüweiye yeichaame yanwa] [ajo'jonño.] [Ajo'jo seweiche aneija, yanwa.]
+# text_tg =  ^adv_EXIST_ajo'jo_grande-nzd? ; ^adv_XXX_ajo'jo_xxx ^nvp_CopeAuxN_nvpFUNC_existential ^ve_tüweiyeEXISTinsubWcop_veTAM:gnomic_Tconcess ^wo_xxx
+# text_nt =  COPx2
+1	Tüweiye	ei	VERB	PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=391794|AlignEnd=392202|GE=[PTCP].[INTR- COP -PTCPe]|Gloss=PTCP.INTR- COP -PTCPe|MSeg=tüw- ei -e|nWord=1|RX=[PREF].[V- V].[I].[A -SUF].[V]
+2	yeichaame	ei	VERB	PERS- PREF.V- V.I.A -PTC?	_	_	_	_	AlignBegin=392202|AlignEnd=392610|GE=[3S- INTR- COP -aunque]|Gloss=3S- INTR- COP -aunque|MSeg=i- w- ei -taame|nWord=2|RX=[PERS- PREF].[V- V].[I].[A -PTC?]
+3	yanwa	yanwaa	NOUN	N	_	_	_	_	AlignBegin=392610|AlignEnd=393018|GE=hombre|Gloss=hombre|MSeg=yanwaa|nWord=3|RX=[N]|wordform=yanwa,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	ajo'jonño	ajo'jo	_	AD -SUF.N	_	_	_	_	AlignBegin=393018|AlignEnd=393426|GE=[grande -AUG?]|Gloss=grande -AUG?|MSeg=ajo'jo -nño|nWord=4|RX=[AD -SUF].[N]|wordform=ajo'jonño.
+6	.	_	PUNCT	_	_	_	_	_	_
+7	Ajo'jo	ajo'jo	_	AD	_	_	_	_	AlignBegin=393426|AlignEnd=393834|GE=grande|Gloss=grande|MSeg=ajo'jo|nWord=5|RX=[AD]
+8	seweiche	seweiche	_	AD	_	_	_	_	AlignBegin=393834|AlignEnd=394242|GE=rojo|Gloss=rojo|MSeg=seweiche|nWord=6|RX=[AD]
+9	aneija	aneija	NOUN	N	_	_	_	_	AlignBegin=394242|AlignEnd=394650|GE=otro|Gloss=otro|MSeg=aneija|nWord=7|RX=[N]|wordform=aneija,
+10	,	_	PUNCT	_	_	_	_	_	_
+11	yanwa	yanwaa	NOUN	N	_	_	_	_	AlignBegin=394650|AlignEnd=395057|GE=hombre|Gloss=hombre|MSeg=yanwaa|nWord=8|RX=[N]|wordform=yanwa.
+12	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_096-096
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 395681, 397982
+# morphemic_text = edöje -:ne -de wodi =je kün- a'ja -aakö awa'de -:ne w- ö'dü -'se Ø- w- ei -dü -:ne
+# text = Edöjeenede, wodije küna'jaakö awa'deene, wö'dü'se weichüüne.
+# text_en =  Digo así, quiero decir que primero era una mujer.
+# text_es =  Digo así, quiero decir que primero era una mujer.
+# text_iu =  [Edöjeenede,] [wodije küna'jaakö awa'deene, wö'dü'se weichüüne]
+# text_tg =  ^adv_INCLUSIONn=je_wodi=je_mujer ^tp_auxiliary Cpres ipfv ^wo_PredCopT
+1	Edöjeenede	edöje	_	AD -PTC -SUF.AD	_	_	_	_	AlignBegin=395681|AlignEnd=396065|GE=[así -INTENS -INTENS]|Gloss=así -INTENS -INTENS|MSeg=edöje -:ne -de|nWord=1|RX=[AD -PTC -SUF].[AD]|wordform=Edöjeenede,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	wodije	wodi	NOUN	N AZR	_	_	_	_	AlignBegin=396065|AlignEnd=396449|GE=[mujer =ESS]|Gloss=mujer =ESS|MSeg=wodi =je|nWord=2|RX=[N AZR]
+4	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=396449|AlignEnd=396833|GE=[3S].[PAS- COP -PDI]|Gloss=3S.PAS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=3|RX=[PERS- V].[I].[A -TAM]
+5	awa'deene	awa'de	_	AD -PTC	_	_	_	_	AlignBegin=396833|AlignEnd=397217|GE=[primero -INTENS]|Gloss=primero -INTENS|MSeg=awa'de -:ne|nWord=4|RX=[AD -PTC]|wordform=awa'deene,
+6	,	_	PUNCT	_	_	_	_	_	_
+7	wö'dü'se	ö'dü	VERB	PERS- V.I.A -SUF.V	_	_	_	_	AlignBegin=397217|AlignEnd=397601|GE=[1- decir -DES]|Gloss=1- decir -DES|MSeg=w- ö'dü -'se|nWord=5|RX=[PERS- V].[I].[A -SUF].[V]
+8	weichüüne	ei	VERB	PERS- PREF.V- V.I.A -SUF.V -PTC	_	_	_	_	AlignBegin=397601|AlignEnd=397982|GE=[1S- INTR- COP -NZR -INTENS]|Gloss=1S- INTR- COP -NZR -INTENS|MSeg=Ø- w- ei -dü -:ne|nWord=6|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V -PTC]|wordform=weichüüne.
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_097-097
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 397995, 399607
+# morphemic_text = ee wodi =je tüwü kün- a'ja -aakö wanö
+# text = Ee, wodije tüwü küna'jaakö wanö.
+# text_en =  Sí, ella la abeja era una mujer.
+# text_es =  Sí, ella la abeja era una mujer
+# text_iu =  [Ee,] [wodije tüwü küna'jaakö wanö.]
+# text_tg =  ^adv_INCLUSIONn=je_wodi=je_mujer ^wo_PredProCopSub
+# text_nt =  discontinous NP
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=397995|AlignEnd=398317|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	wodije	wodi	NOUN	N =AZR	_	_	_	_	AlignBegin=398317|AlignEnd=398639|GE=[mujer =ESS]|Gloss=mujer =ESS|MSeg=wodi =je|nWord=2|RX=[N =AZR]
+4	tüwü	tüwü	PRON	PRO	_	_	_	_	AlignBegin=398639|AlignEnd=398961|GE=[3SG]|Gloss=3SG|MSeg=tüwü|nWord=3|RX=[PRO]
+5	küna'jaakö	a'ja	VERB	PERS- V.I.A -TAM	_	_	_	_	AlignBegin=398961|AlignEnd=399283|GE=[3].[DIS- COP -PDI]|Gloss=3.DIS- COP -PDI|MSeg=kün- a'ja -aakö|nWord=4|RX=[PERS- V].[I].[A -TAM]
+6	wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=399283|AlignEnd=399607|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=5|RX=[N]|wordform=wanö.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_098-098
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 401843, 405158
+# morphemic_text = mödö köwa'kö -mma mödö akudi akkö i- w- ei -jüdü =komo Ø- ekamma -jötü -dü
+# text = Mödö kwa'kömma mödö, akudi akkö yeijü'komo ekammajötüdü.
+# text_en =  Eso es todo lo que se cuenta de lo que estuvieron con el picure.
+# text_es =  Eso es todo lo que se cuenta de lo que estuvieron con el picure.
+# text_iu =  [Mödö'kwakömma mödö,] [akudi akö yeijükomo ekammajötüdü.]
+# text_tg =  ^tp_nominal
+# text_nt =  -jüdü=
+1	Mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=401843|AlignEnd=402317|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=1|RX=[PRO]
+2	kwa'kömma	köwa'kö	_	PP -PTC	_	_	_	_	AlignBegin=402317|AlignEnd=402791|GE=[así -EXCL]|Gloss=así -EXCL|MSeg=köwa'kö -mma|nWord=2|RX=[PP -PTC]
+3	mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=402791|AlignEnd=403265|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=3|RX=[PRO]|wordform=mödö,
+4	,	_	PUNCT	_	_	_	_	_	_
+5	akudi	akudi	NOUN	N	_	_	_	_	AlignBegin=403265|AlignEnd=403739|GE=picure|Gloss=picure|MSeg=akudi|nWord=4|RX=[N]
+6	akkö	akkö	ADP	PP	_	_	_	_	AlignBegin=403739|AlignEnd=404213|GE=con|Gloss=con|MSeg=akkö|nWord=5|RX=[PP]
+7	yeijü'komo	ei	VERB	PERS- PREF.V- V.I.A -NZR PTC	_	_	_	_	AlignBegin=404213|AlignEnd=404687|GE=[3S- INTR- COP -PAS].[NZR =PL]|Gloss=3S- INTR- COP -PAS.NZR =PL|MSeg=i- w- ei -jüdü =komo|nWord=6|RX=[PERS- PREF].[V- V].[I].[A -NZR PTC]
+8	ekammajötüdü	ekamma	VERB	PERS- V.T -TAM -SUF.V	_	_	_	_	AlignBegin=404687|AlignEnd=405158|GE=[3O- contar -ITER -NZR]|Gloss=3O- contar -ITER -NZR|MSeg=Ø- ekamma -jötü -dü|nWord=7|RX=[PERS- V].[T -TAM -SUF].[V]|wordform=ekammajötüdü.
+9	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_099-099
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 406497, 414687
+# morphemic_text = aaa iyö yaawö ane'köömü mödö joi t- üdü -dü na yaawö uu Ø- ede'tö -dü ke chö- ötü -Ø
+# text = Aaa , iyö yawö , ane'köömü… Mödö joi tüdüdü na yaawö… " uu ede'tödü " ke chöötü .
+# text_en =  Ah, eso, este... A través de ese, se hace para rendir más el casabe.
+# text_es =  Ah, eso, este... A través de ese, se hace para rendir más el casabe.
+# text_iu =  [Aa, iyö yawö, ane'köömü...] [Mödöjoi tüdüdü na yaawö...] (1.9s)["uu ede'tödü" ke chöötü.]
+# text_tg =  ^tp_withCOP_gnomic ; nominal
+1	Aaa	aaa	_	INTERJ	_	_	_	_	AlignBegin=406497|AlignEnd=407127|GE=ah|Gloss=ah|MSeg=aaa|nWord=1|RX=[INTERJ]|wordform=Aaa,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	iyö	iyö	PRON	PRO	_	_	_	_	AlignBegin=407127|AlignEnd=407757|GE=[IN:INV]|Gloss=IN:INV|MSeg=iyö|nWord=2|RX=[PRO]
+4	yawö	yaawö	_	PTC	_	_	_	_	AlignBegin=407757|AlignEnd=408387|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yawö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ane'köömü…	ane'köömü	PRON	PRO	_	_	_	_	AlignBegin=408387|AlignEnd=409017|GE=[INTER].[INAN]|Gloss=INTER.INAN|MSeg=ane'köömü|nWord=4|RX=[PRO]|wordform=ane'köömü...
+7	Mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=409017|AlignEnd=409647|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=5|RX=[PRO]
+8	joi	joi	ADP	PP	_	_	_	_	AlignBegin=409647|AlignEnd=410277|GE=a.través|Gloss=a.través|MSeg=joi|nWord=6|RX=[PP]
+9	tüdüdü	üdü	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=410277|AlignEnd=410907|GE=[3O- bendecir -NZR]|Gloss=3O- bendecir -NZR|MSeg=t- üdü -dü|nWord=7|RX=[PERS- V].[T -SUF].[V]
+10	na	na	_	COP	_	_	_	_	AlignBegin=410907|AlignEnd=411537|GE=[3].[COP]|Gloss=3.COP|MSeg=na|nWord=8|RX=[COP]
+11	yaawö…	yaawö	_	PTC	_	_	_	_	AlignBegin=411537|AlignEnd=412167|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=9|RX=[PTC]|wordform=yaawö...
+12	"	"	NOUN	N	_	_	_	_	AlignBegin=412167|AlignEnd=412797|GE=casabe|Gloss=casabe|MSeg=uu|nWord=10|RX=[N]
+13	uu	uu	NOUN	N	_	_	_	_	AlignBegin=412167|AlignEnd=412797|GE=casabe|Gloss=casabe|MSeg=uu|nWord=10|RX=[N]
+14	ede'tödü	ede'tö	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=412797|AlignEnd=413427|GE=[3O- hacer].[rendir -NZR]|Gloss=3O- hacer.rendir -NZR|MSeg=Ø- ede'tö -dü|nWord=11|RX=[PERS- V].[T -SUF].[V]|wordform=ede'tödü"
+15	"	_	PUNCT	_	_	_	_	_	_
+16	ke	ke	_	PTC	_	_	_	_	AlignBegin=413427|AlignEnd=414057|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=12|RX=[PTC]
+17	chöötü	ötü	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=414057|AlignEnd=414687|GE=[3- nombre -POSS]|Gloss=3- nombre -POSS|MSeg=chö- ötü -Ø|nWord=13|RX=[PERS- N -SUF].[N]|wordform=chöötü.
+18	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_100-100
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 415454, 418223
+# morphemic_text = kiyede Ø- ede'tö -dü uu Ø- ede'tö -dü =mmaja
+# text = Kiyede ede'tödü. Uu ede'tödümmaja.
+# text_en =  Rendir la yuca. Rendir el casabe también.
+# text_es =  Rendir la yuca. Rendir el casabe también.
+# text_iu =  [Kiyede ede'tödü.] [Uu ede'tödümmaja.]
+# text_tg =  ^tp_nominal ; nominal
+1	Kiyede	kiyede	NOUN	N	_	_	_	_	AlignBegin=415454|AlignEnd=416146|GE=yuca|Gloss=yuca|MSeg=kiyede|nWord=1|RX=[N]
+2	ede'tödü	ede'tö	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=416146|AlignEnd=416838|GE=[3O- hacer].[rendir -NZR]|Gloss=3O- hacer.rendir -NZR|MSeg=Ø- ede'tö -dü|nWord=2|RX=[PERS- V].[T -SUF].[V]|wordform=ede'tödü.
+3	.	_	PUNCT	_	_	_	_	_	_
+4	Uu	uu	NOUN	N	_	_	_	_	AlignBegin=416838|AlignEnd=417530|GE=casabe|Gloss=casabe|MSeg=uu|nWord=3|RX=[N]
+5	ede'tödümmaja	ede'tö	VERB	PERS- V.T -SUF.V PTC	_	_	_	_	AlignBegin=417530|AlignEnd=418223|GE=[3O- hacer].[rendir -NZR =también]|Gloss=3O- hacer.rendir -NZR =también|MSeg=Ø- ede'tö -dü =mmaja|nWord=4|RX=[PERS- V].[T -SUF].[V PTC]|wordform=ede'tödümmaja.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_101-101
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 418743, 419705
+# morphemic_text = wanö n- üdü -dü ai
+# text = ¿Wanö nüdüdü ai?
+# text_en =  ¿Hecho por la abeja?
+# text_es =  ¿Hecho por la abeja?
+# text_iu =  [¿Wanö nüdüdü ai?]
+# text_tg =  ^tp_nominativepp relative passive
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=418743|AlignEnd=419064|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=1|RX=[N]|wordform=¿Wanö
+3	nüdüdü	üdü	VERB	NZR- V.T -SUF.V	_	_	_	_	AlignBegin=419064|AlignEnd=419385|GE=[SHR- bendecir -NZR]|Gloss=SHR- bendecir -NZR|MSeg=n- üdü -dü|nWord=2|RX=[NZR- V].[T -SUF].[V]
+4	ai	ai	ADP	PP	_	_	_	_	AlignBegin=419385|AlignEnd=419705|GE=por|Gloss=por|MSeg=ai|nWord=3|RX=[PP]|wordform=ai?
+5	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_102-102
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 419770, 422045
+# morphemic_text = wanö i- n- ede'tö -jüdü ai yaawö
+# text = Wanö ñeede'töjüdü ai yawö.
+# text_en =  Por la que rindió la abeja.
+# text_es =  Por la que rindió la abeja.
+# text_iu =  [Wanö ede't-] [ñeede'töjüdü ai yawö.]
+# text_nt =  -jüdü=NP
+1	Wanö	wanö	NOUN	N	_	_	_	_	AlignBegin=419770|AlignEnd=420339|GE=abeja|Gloss=abeja|MSeg=wanö|nWord=1|RX=[N]
+2	ñeede'töjüdü	ede'tö	VERB	PERS- NZR- V.T -NZR	_	_	_	_	AlignBegin=420339|AlignEnd=420908|GE=[3- SHR- hacer].[rendir -PAS].[NZR]|Gloss=3- SHR- hacer.rendir -PAS.NZR|MSeg=i- n- ede'tö -jüdü|nWord=2|RX=[PERS- NZR- V].[T -NZR]
+3	ai	ai	ADP	PP	_	_	_	_	AlignBegin=420908|AlignEnd=421477|GE=por|Gloss=por|MSeg=ai|nWord=3|RX=[PP]
+4	yawö	yaawö	_	PTC	_	_	_	_	AlignBegin=421477|AlignEnd=422045|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yawö.
+5	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_103-103
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 423852, 426127
+# morphemic_text = ee mödö Ø- ede'tö -tojo mödö yaawö
+# text = Ee. Mödö ede'totojo mödö yawö.
+# text_en =  Sí. Eso es para rendirlos.
+# text_es =  Sí. Eso es para rendirlos.
+# text_iu =  [Ee.] [Mödö ede'tatojo mödö yawö.]
+# text_tg =  ^pro_Snvp ; ^pro_Oinstr ^wo_PredSubY
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=423852|AlignEnd=424307|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee.
+2	.	_	PUNCT	_	_	_	_	_	_
+3	Mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=424307|AlignEnd=424762|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=2|RX=[PRO]
+4	ede'totojo	ede'tö	VERB	PERS- V.T -NLZR	_	_	_	_	AlignBegin=424762|AlignEnd=425217|GE=[3O- hacer].[rendir -INSTR]|Gloss=3O- hacer.rendir -INSTR|MSeg=Ø- ede'tö -tojo|nWord=3|RX=[PERS- V].[T -NLZR]
+5	mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=425217|AlignEnd=425672|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=4|RX=[PRO]
+6	yawö	yaawö	_	PTC	_	_	_	_	AlignBegin=425672|AlignEnd=426127|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=5|RX=[PTC]|wordform=yawö.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_104-104
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 428077, 431054
+# morphemic_text = a- uu -dü Ø- ede'tö -jai =mmaja at- ede'tö -jai =mmaja ado
+# text = Öddu ede'töjaimmaja, ööde'töjaimmaja ado.
+# text_en =  Puede rendir a tu casabe, puede rendir también el arroz.
+# text_es =  Puede rendir a tu casabe, puede rendir también el arroz.
+# text_iu =  [Öddu ede'töjaimmaja,] [ööde'töjaimmaja ado.]
+# text_tg =  ^dtrVerb_ööde'tö ^wo_VU
+# text_nt =  @ JAInoCOP
+1	Öddu	uu	_	PERS- N -SUF.N	_	_	_	_	AlignBegin=428077|AlignEnd=428821|GE=[2- casabe -POSS]|Gloss=2- casabe -POSS|MSeg=a- uu -dü|nWord=1|RX=[PERS- N -SUF].[N]
+2	ede'töjaimmaja	ede'tö	VERB	PERS- V.T -SUF.V PTC	_	_	_	_	AlignBegin=428821|AlignEnd=429565|GE=[3O- hacer].[rendir -ABIL =y]|Gloss=3O- hacer.rendir -ABIL =y|MSeg=Ø- ede'tö -jai =mmaja|nWord=2|RX=[PERS- V].[T -SUF].[V PTC]|wordform=ede'töjaimmaja,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	ööde'töjaimmaja	ede'tö	VERB	PREF.V- V.T -SUF.V PTC	_	_	_	_	AlignBegin=429565|AlignEnd=430309|GE=[DTR- hacer].[rendir -ABIL =y]|Gloss=DTR- hacer.rendir -ABIL =y|MSeg=at- ede'tö -jai =mmaja|nWord=3|RX=[PREF].[V- V].[T -SUF].[V PTC]
+5	ado	ado	_	N.ESP	_	_	_	_	AlignBegin=430309|AlignEnd=431054|GE=arroz|Gloss=arroz|MSeg=ado|nWord=4|RX=[N].[ESP]|wordform=ado.
+6	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_105-105
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 434200, 436137
+# morphemic_text = a- öwansi -dü =je i- w- ei -dü wettö yaawö ke
+# text = Ayewansiñüje yeichü wettö yaawö, ke.
+# text_en =  Para que sea tu buen alimento.
+# text_es =  Para que sea tu buen alimento.
+# text_iu =  [Ayewansiñüje yeichü wetö yaawö, ke.]
+# text_tg =  ^tp_copular CsubPP ^wo_xxx
+# text_nt =  purposewettö
+# text_qu =  Verificar la traducción que le corresponde a wettö en esta oración
+1	Ayewansiñüje	öwansi	_	PERS- N -SUF.N AZR	_	_	_	_	AlignBegin=434200|AlignEnd=434587|GE=[2- comida -POSS =ESS]|Gloss=2- comida -POSS =ESS|MSeg=a- öwansi -dü =je|nWord=1|RX=[PERS- N -SUF].[N AZR]
+2	yeichü	ei	VERB	PERS- PREF.V- V.I.A -SUF.V	_	_	_	_	AlignBegin=434587|AlignEnd=434974|GE=[3S- INTR- COP -NZR]|Gloss=3S- INTR- COP -NZR|MSeg=i- w- ei -dü|nWord=2|RX=[PERS- PREF].[V- V].[I].[A -SUF].[V]
+3	wettö	wettö	ADP	PP	_	_	_	_	AlignBegin=434974|AlignEnd=435361|GE=obtener|Gloss=obtener|MSeg=wettö|nWord=3|RX=[PP]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=435361|AlignEnd=435748|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=4|RX=[PTC]|wordform=yaawö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	ke	ke	_	PTC	_	_	_	_	AlignBegin=435748|AlignEnd=436137|GE=[QUOT]|Gloss=QUOT|MSeg=ke|nWord=5|RX=[PTC]|wordform=ke.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_106-106
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 436137, 437697
+# morphemic_text = aakene iyö'kö Ø- oneja -kö a'ye -:sa mödö
+# text = Aakene iyö'kö, onejakö, a'yesammödö.
+# text_en =  Este a ver, demuéstralo, un poquito.
+# text_es =  Este a ver, demuéstralo, un poquito.
+# text_iu =  [Aakene iyö'kö, onejakö,] [a'yesammödö.]
+1	Aakene	aakene	_	FILLER	_	_	_	_	AlignBegin=436137|AlignEnd=436527|GE=como|Gloss=como|MSeg=aakene|nWord=1|RX=[FILLER]
+2	iyö'kö	iyö'kö	_	EXP?	_	_	_	_	AlignBegin=436527|AlignEnd=436917|GE=a.ver|Gloss=a.ver|MSeg=iyö'kö|nWord=2|RX=[EXP?]|wordform=iyö'kö,
+3	,	_	PUNCT	_	_	_	_	_	_
+4	onejakö	oneja	VERB	PERS- V.T -SUF.V	_	_	_	_	AlignBegin=436917|AlignEnd=437307|GE=[3O- demostrar -IMP]|Gloss=3O- demostrar -IMP|MSeg=Ø- oneja -kö|nWord=3|RX=[PERS- V].[T -SUF].[V]|wordform=onejakö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	a'yesammödö	a'ye	_	AD -SUF.AD PTC	_	_	_	_	AlignBegin=437307|AlignEnd=437697|GE=[breve -DIM IN].[MD].[ptc]|Gloss=breve -DIM IN.MD.ptc|MSeg=a'ye -:sa mödö|nWord=4|RX=[AD -SUF].[AD PTC]|wordform=a'yesammödö.
+7	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_107-108
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 439153, 454922
+# morphemic_text = mödöje na =:düje
+# text = xxx Mödöje, naadüje.
+# text_en =  (oración o canto.) Así es, tal cual.
+# text_es =  (oración o canto) Así es, tal cual.
+# text_iu =  xxx [Mödöje,] [naadüje.]
+1	Mödöje	mödöje	_	AD	_	_	_	_	AlignBegin=453947|AlignEnd=454435|GE=así|Gloss=así|MSeg=mödöje|nWord=2|RX=[AD]|wordform=Mödöje,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	naadüje	na	_	COP =PTC	_	_	_	_	AlignBegin=454435|AlignEnd=454922|GE=[3].[COP =COMPAR]|Gloss=3.COP =COMPAR|MSeg=na =:düje|nWord=3|RX=[COP =PTC]|wordform=naadüje.
+4	.	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_109-109
+# speaker_id = Anl
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 457132, 457587
+# morphemic_text = eduwa
+# text = ¿Eduwa?
+# text_en =  ¿Ya?
+# text_es =  ¿Ya?
+# text_iu =  [¿Eduwa?]
+1	¿	_	PUNCT	_	_	_	_	_	_
+2	Eduwa	eduwa	_	AD	_	_	_	_	AlignBegin=457132|AlignEnd=457587|GE=ahora|Gloss=ahora|MSeg=eduwa|nWord=1|RX=[AD]|wordform=¿Eduwa?
+3	?	_	PUNCT	_	_	_	_	_	_
+
+# sent_id = CtoAbjPic_110-110
+# speaker_id = FcM
+# sound_url = https://corporan.huma-num.fr/Archives/media/CtoPicAbj/WAV/CtoPicAbj_FcoM_4_N.WAV
+# sent_timecode = 457548, 460044
+# morphemic_text = ee w- ö'ka -i yaawö mödö köwa'kö -mma
+# text = Ee, wö'kai yaawö, mödö kwa'kömma.
+# text_en =  sí, terminé, eso era todo.
+# text_es =  sí, terminé, eso era todo.
+# text_iu =  [Ee,] [wö'kai yaawö,] [mödö kwa'kömma.]
+# text_tg =  ^dtrVerb_ö'ka_noTR ^wo_VY
+1	Ee	ee	_	PTC	_	_	_	_	AlignBegin=457548|AlignEnd=458047|GE=sí|Gloss=sí|MSeg=ee|nWord=1|RX=[PTC]|wordform=Ee,
+2	,	_	PUNCT	_	_	_	_	_	_
+3	wö'kai	ö'ka	VERB	PERS- V.I.A -TNS	_	_	_	_	AlignBegin=458047|AlignEnd=458546|GE=[1S- terminar -PRP]|Gloss=1S- terminar -PRP|MSeg=w- ö'ka -i|nWord=2|RX=[PERS- V].[I].[A -TNS]
+4	yaawö	yaawö	_	PTC	_	_	_	_	AlignBegin=458546|AlignEnd=459045|GE=entonces|Gloss=entonces|MSeg=yaawö|nWord=3|RX=[PTC]|wordform=yaawö,
+5	,	_	PUNCT	_	_	_	_	_	_
+6	mödö	mödö	PRON	PRO	_	_	_	_	AlignBegin=459045|AlignEnd=459544|GE=[IN].[MD]|Gloss=IN.MD|MSeg=mödö|nWord=4|RX=[PRO]
+7	kwa'kömma	köwa'kö	_	PP -PTC	_	_	_	_	AlignBegin=459544|AlignEnd=460044|GE=[así -EXCL]|Gloss=así -EXCL|MSeg=köwa'kö -mma|nWord=5|RX=[PP -PTC]|wordform=kwa'kömma.
+8	.	_	PUNCT	_	_	_	_	_	_
+
